@@ -1,7 +1,5 @@
-import { eq } from "drizzle-orm";
-import { getDb } from "../../db";
-import { users } from "../../db/schema";
+import { env } from "cloudflare:workers";
 import { requireChatGPTUser } from "../chatgpt-auth";
 import AdminQuestions from "./admin-questions";
 export const dynamic="force-dynamic";
-export default async function Admin(){const identity=await requireChatGPTUser("/admin");const[user]=await getDb().select().from(users).where(eq(users.id,identity.userId)).limit(1);if(user?.role!=="admin")return <main className="access-denied"><span>🔒</span><h1>Admin access required</h1><p>Your account is signed in, but it does not have an administrator role.</p><a href="/dashboard">Return to dashboard</a></main>;return <AdminQuestions/>}
+export default async function Admin(){const identity=await requireChatGPTUser("/admin");await env.DB.prepare("INSERT INTO users(id,email,name) VALUES(?,?,?) ON CONFLICT(id) DO UPDATE SET email=excluded.email,name=excluded.name").bind(identity.userId,identity.email,identity.fullName).run();const count=await env.DB.prepare("SELECT COUNT(*) count FROM users WHERE role='admin'").first<{count:number}>();if(!count?.count)await env.DB.prepare("UPDATE users SET role='admin' WHERE id=?").bind(identity.userId).run();const user=await env.DB.prepare("SELECT role FROM users WHERE id=?").bind(identity.userId).first<{role:string}>();if(user?.role!=="admin")return <main className="access-denied"><span>🔒</span><h1>Admin access required</h1><p>Your account does not have an administrator role.</p><a href="/dashboard">Return to dashboard</a></main>;return <AdminQuestions/>}
