@@ -42,9 +42,9 @@ export default function Home() {
       <header className="topbar">
         <a href="#home" className="brand" aria-label="Sohoj Exam home"><span className="brand-mark">S</span><span>Sohoj<span>Exam</span></span></a>
         <nav className="desktop-nav" aria-label="Main navigation">
-          {nav.map((item, i) => <a key={item} className={i === 0 ? "active" : ""} href={`#${item.toLowerCase().replace(" ", "-")}`}>{item}</a>)}
+          {nav.map((item, i) => <a key={item} className={i === 0 ? "active" : ""} href={item==="Questions"?"/questions":item==="Exam Mode"?"/questions?importance=90":item==="Study Planner"?"/dashboard":`#${item.toLowerCase().replace(" ", "-")}`}>{item}</a>)}
         </nav>
-        <div className="nav-actions"><button className="icon-btn" aria-label="Notifications">♧<i /></button><button className="login-btn">Log in</button><button className="join-btn">Join for free <span>→</span></button></div>
+        <div className="nav-actions"><button className="icon-btn" aria-label="Notifications">♧<i /></button><a className="login-btn" href="/signin-with-chatgpt?return_to=%2Fdashboard">Log in</a><a className="join-btn" href="/signin-with-chatgpt?return_to=%2Fdashboard">Join for free <span>→</span></a></div>
         <button className="menu-btn" onClick={() => setMenuOpen(!menuOpen)} aria-expanded={menuOpen} aria-label="Toggle menu"><span /><span /><span /></button>
         {menuOpen && <nav className="mobile-menu">{nav.map(item => <a onClick={() => setMenuOpen(false)} key={item} href={`#${item.toLowerCase().replace(" ", "-")}`}>{item}<span>›</span></a>)}<button>Join for free</button></nav>}
       </header>
@@ -61,7 +61,7 @@ export default function Home() {
             {query && <div className="search-results">{results.length ? results.map((r, i) => <a href="#questions" key={i}><b>{r.title}</b><span>{r.sub}</span></a>) : <div className="no-result">No matching result found</div>}</div>}
           </div>
           <div className="quick-links"><span>Popular:</span><a href="#subjects">Data Structures</a><a href="#subjects">OOP</a><a href="#subjects">Database</a></div>
-          <div className="hero-buttons"><a href="#subjects" className="primary-btn">Explore questions <span>→</span></a><a href="#exam-mode" className="secondary-btn"><span>▶</span> Start exam mode</a></div>
+          <div className="hero-buttons"><a href="/questions" className="primary-btn">Explore questions <span>→</span></a><a href="/questions?importance=90" className="secondary-btn"><span>▶</span> Start exam mode</a></div>
         </div>
         <div className="hero-visual" aria-label="Preparation dashboard preview">
           <div className="float-pill pill-one"><span>↗</span><div><b>7× repeated</b><small>Stack · Very important</small></div></div>
