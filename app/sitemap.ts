@@ -1,0 +1,1 @@
+import type{MetadataRoute}from"next";export default function sitemap():MetadataRoute.Sitemap{const base="https://sohojexam-smart-prep.addisonbristollpenm.chatgpt.site";return["","/explore","/questions","/privacy","/terms"].map((p,i)=>({url:base+p,lastModified:new Date(),changeFrequency:i<3?"weekly":"yearly",priority:i===0?1:.7}))}
