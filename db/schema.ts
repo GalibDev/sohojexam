@@ -118,3 +118,60 @@ export const reports = sqliteTable("reports", {
   status: text("status").notNull().default("open"),
   createdAt: text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),
 });
+
+export const questionPapers = sqliteTable("question_papers", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  subjectId: integer("subject_id").notNull().references(() => subjects.id),
+  pdfMappingId: integer("pdf_mapping_id").references(() => pdfMappings.id),
+  year: integer("year").notNull(), examType: text("exam_type").notNull(),
+  collegeId: integer("college_id").references(() => colleges.id),
+  title: text("title").notNull(), status: text("status").notNull().default("published"),
+  createdAt: text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+}, (t) => [index("idx_papers_discovery").on(t.subjectId,t.examType,t.year,t.collegeId)]);
+
+export const paperQuestions = sqliteTable("paper_questions", {
+  paperId: integer("paper_id").notNull().references(() => questionPapers.id,{onDelete:"cascade"}),
+  questionId: integer("question_id").notNull().references(() => questions.id,{onDelete:"cascade"}),
+  position: integer("position").notNull().default(0),
+}, (t) => [primaryKey({columns:[t.paperId,t.questionId]})]);
+
+export const personalLists = sqliteTable("personal_lists", {
+  id: integer("id").primaryKey({autoIncrement:true}), userId: text("user_id").notNull().references(()=>users.id,{onDelete:"cascade"}),
+  name: text("name").notNull(), createdAt:text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+}, (t)=>[index("idx_personal_lists_user").on(t.userId)]);
+
+export const personalListItems = sqliteTable("personal_list_items", {
+  listId:integer("list_id").notNull().references(()=>personalLists.id,{onDelete:"cascade"}),
+  questionId:integer("question_id").notNull().references(()=>questions.id,{onDelete:"cascade"}),
+  position:integer("position").notNull().default(0),
+},(t)=>[primaryKey({columns:[t.listId,t.questionId]})]);
+
+export const mockTests = sqliteTable("mock_tests", {
+  id:integer("id").primaryKey({autoIncrement:true}),userId:text("user_id").notNull().references(()=>users.id,{onDelete:"cascade"}),
+  subjectId:integer("subject_id").notNull().references(()=>subjects.id),title:text("title").notNull(),durationMinutes:integer("duration_minutes").notNull(),
+  status:text("status").notNull().default("ready"),startedAt:text("started_at"),submittedAt:text("submitted_at"),score:integer("score"),total:integer("total").notNull().default(0),
+  createdAt:text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+},(t)=>[index("idx_mock_tests_user").on(t.userId, t.createdAt)]);
+
+export const mockTestQuestions = sqliteTable("mock_test_questions", {
+  testId:integer("test_id").notNull().references(()=>mockTests.id,{onDelete:"cascade"}),questionId:integer("question_id").notNull().references(()=>questions.id),
+  position:integer("position").notNull(),answer:text("answer"),isCorrect:integer("is_correct",{mode:"boolean"}),
+},(t)=>[primaryKey({columns:[t.testId,t.questionId]})]);
+
+export const studyPlanItems = sqliteTable("study_plan_items", {
+  id:integer("id").primaryKey({autoIncrement:true}),planId:integer("plan_id").notNull().references(()=>studyPlans.id,{onDelete:"cascade"}),
+  topicId:integer("topic_id").references(()=>topics.id),scheduledDate:text("scheduled_date").notNull(),title:text("title").notNull(),kind:text("kind").notNull().default("study"),completed:integer("completed",{mode:"boolean"}).notNull().default(false),
+},(t)=>[index("idx_plan_items_plan_date").on(t.planId,t.scheduledDate)]);
+
+export const notifications = sqliteTable("notifications", {
+  id:integer("id").primaryKey({autoIncrement:true}),userId:text("user_id").notNull().references(()=>users.id,{onDelete:"cascade"}),
+  type:text("type").notNull(),title:text("title").notNull(),body:text("body").notNull(),readAt:text("read_at"),createdAt:text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+},(t)=>[index("idx_notifications_user_read").on(t.userId,t.readAt)]);
+
+export const moderationActions = sqliteTable("moderation_actions", {
+  id:integer("id").primaryKey({autoIncrement:true}),actorId:text("actor_id").notNull().references(()=>users.id),entityType:text("entity_type").notNull(),entityId:integer("entity_id").notNull(),action:text("action").notNull(),note:text("note").notNull().default(""),createdAt:text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+},(t)=>[index("idx_moderation_entity").on(t.entityType,t.entityId)]);
+
+export const aiJobs = sqliteTable("ai_jobs", {
+  id:integer("id").primaryKey({autoIncrement:true}),requestedBy:text("requested_by").notNull().references(()=>users.id),kind:text("kind").notNull(),sourceId:integer("source_id"),status:text("status").notNull().default("queued"),input:text("input").notNull().default("{}"),output:text("output"),error:text("error"),createdAt:text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),updatedAt:text("updated_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+},(t)=>[index("idx_ai_jobs_status").on(t.status,t.createdAt)]);
