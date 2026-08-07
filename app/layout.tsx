@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./papers.css";
 
 export const metadata: Metadata = {
   title: "SohojExam — Prepare Smarter, Score Better",
