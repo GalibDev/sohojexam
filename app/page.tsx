@@ -88,7 +88,7 @@ export default function Home() {
 
       <section className="section departments" id="departments">
         <div className="section-heading"><div><span className="kicker">START EXPLORING</span><h2>Choose your department</h2><p>Find questions, subjects and resources organized for your academic journey.</p></div><a href="#departments">View all departments <span>→</span></a></div>
-        <div className="department-grid">{departments.map((d, i) => <article className={`department-card ${d.active ? "active" : "disabled"}`} key={d.short}>
+        <div className="department-grid">{departments.map((d, i) => <article className={`department-card ${d.active ? "active" : "disabled"}`} key={d.short} onClick={e=>{if(d.active){e.preventDefault();location.href="/explore"}}}>
           <div className="dept-icon">{d.icon}</div><div className="dept-status">{d.active ? <><i /> ACTIVE</> : "COMING SOON"}</div><h3>{d.short}</h3><b>{d.name}</b><p>{d.meta}</p>{d.active && <a href="#subjects">Explore department <span>→</span></a>}{i > 0 && <div className="soon-line" />}
         </article>)}</div>
       </section>
