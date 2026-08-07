@@ -28,5 +28,6 @@ export async function GET(request: Request, ctx: { params: Promise<{ id: string 
   }
   const filename = row.original_name.replace(/[^a-zA-Z0-9._-]/g, "-");
   const disposition = `${download ? "attachment" : "inline"}; filename="${filename}"`;
-  return new Response(bytes, { headers: { "Content-Type": "application/pdf", "Content-Disposition": disposition, "Cache-Control": row.status === "approved" ? "public, max-age=3600" : "private, no-store" } });
+  const body = bytes.buffer.slice(bytes.byteOffset, bytes.byteOffset + bytes.byteLength) as ArrayBuffer;
+  return new Response(body, { headers: { "Content-Type": "application/pdf", "Content-Disposition": disposition, "Cache-Control": row.status === "approved" ? "public, max-age=3600" : "private, no-store" } });
 }
