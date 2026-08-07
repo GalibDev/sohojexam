@@ -8,12 +8,19 @@ export async function GET(request: Request, ctx: { params: Promise<{ id: string 
   if (!row) return Response.json({ error: "PDF not found" }, { status: 404 });
   const user = await getChatGPTUser();
   if (row.status !== "approved" && user?.userId !== row.owner_id) return Response.json({ error: "This PDF is awaiting review" }, { status: 403 });
-  const object = await env.UPLOADS.get(row.file_key);
-  if (!object) return Response.json({ error: "File unavailable" }, { status: 404 });
   const url = new URL(request.url);
   const start = Number(url.searchParams.get("start") || 0), end = Number(url.searchParams.get("end") || 0);
   const download = url.searchParams.get("download") === "1";
-  let bytes = new Uint8Array(await object.arrayBuffer());
+  let bytes: Uint8Array;
+  if (row.file_key.startsWith("public:")) {
+    const asset = await fetch(new URL(row.file_key.slice("public:".length), url.origin));
+    if (!asset.ok) return Response.json({ error: "File unavailable" }, { status: 404 });
+    bytes = new Uint8Array(await asset.arrayBuffer());
+  } else {
+    const object = await env.UPLOADS.get(row.file_key);
+    if (!object) return Response.json({ error: "File unavailable" }, { status: 404 });
+    bytes = new Uint8Array(await object.arrayBuffer());
+  }
   if (start > 0 && end >= start) {
     const source = await PDFDocument.load(bytes), out = await PDFDocument.create();
     const indexes = Array.from({ length: end - start + 1 }, (_, i) => start + i - 1).filter(i => i >= 0 && i < source.getPageCount());
