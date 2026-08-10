@@ -8,6 +8,7 @@ import "./mobile/mobile-home.css";
 import "./mobile/mobile-nav.css";
 import "./mobile/mobile-papers.css";
 import "./mobile/mobile-viewer.css";
+import "./text-paper.css";
 
 export const metadata: Metadata = {
   title: "SohojExam — Prepare Smarter, Score Better",

@@ -1,0 +1,7012 @@
+{
+  "cse-301-oop-2020": [
+    [
+      {
+        "text": "2\"dYear1\"SemesterExamination-2020",
+        "score": 0.967
+      },
+      {
+        "text": "Department:ComputerScience&Engineering",
+        "score": 0.989
+      },
+      {
+        "text": "Subject:ObjectOrientedProgrammingLanguage",
+        "score": 0.992
+      },
+      {
+        "text": "Course Code:CSE-301",
+        "score": 0.966
+      },
+      {
+        "text": "Total Marks:70",
+        "score": 0.956
+      },
+      {
+        "text": "Time:2（two)hours",
+        "score": 0.932
+      },
+      {
+        "text": "Answer any 03(three)questions.",
+        "score": 0.955
+      },
+      {
+        "text": "01",
+        "score": 0.996
+      },
+      {
+        "text": "a)",
+        "score": 0.945
+      },
+      {
+        "text": "Which are thebestfeaturesof OOPsandwhyexplain?",
+        "score": 0.957
+      },
+      {
+        "text": "6",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.907
+      },
+      {
+        "text": "Whatarethe advantagesofOOPoverstructural programming？",
+        "score": 0.954
+      },
+      {
+        "text": "6",
+        "score": 0.996
+      },
+      {
+        "text": "C)",
+        "score": 0.507
+      },
+      {
+        "text": "Is encapsulation and datahiding same?",
+        "score": 0.943
+      },
+      {
+        "text": "6",
+        "score": 0.997
+      },
+      {
+        "text": "(P",
+        "score": 0.695
+      },
+      {
+        "text": "Assign andprint theroll number,phone number andaddressof two studentshavingnames",
+        "score": 0.945
+      },
+      {
+        "text": "5.33",
+        "score": 0.997
+      },
+      {
+        "text": "“X”and“Y”respectively by creating two objects of class“Student”.",
+        "score": 0.916
+      },
+      {
+        "text": "02",
+        "score": 0.998
+      },
+      {
+        "text": "Define copy constructor.",
+        "score": 0.97
+      },
+      {
+        "text": "3.33",
+        "score": 0.993
+      },
+      {
+        "text": "b)",
+        "score": 0.767
+      },
+      {
+        "text": "Distinctionbetween static and non-staticmember.",
+        "score": 0.956
+      },
+      {
+        "text": "4",
+        "score": 0.995
+      },
+      {
+        "text": "c)",
+        "score": 0.684
+      },
+      {
+        "text": "Whatare theusesof accessmodifiersin C++?Explain throughanOOPprogram.",
+        "score": 0.957
+      },
+      {
+        "text": "8",
+        "score": 0.998
+      },
+      {
+        "text": "d)",
+        "score": 0.796
+      },
+      {
+        "text": "Canwe haveboth default constructor andparameterizedconstructorin the same class?",
+        "score": 0.952
+      },
+      {
+        "text": "8",
+        "score": 0.995
+      },
+      {
+        "text": "Explain throughanOOPprogram.",
+        "score": 0.966
+      },
+      {
+        "text": "03",
+        "score": 0.998
+      },
+      {
+        "text": "a)",
+        "score": 0.928
+      },
+      {
+        "text": "What is an exception?Discuss how try-catch-finallyblocksworks injava.",
+        "score": 0.947
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.807
+      },
+      {
+        "text": "What is exceptionhandling?Using exception handlingmechanismwrite a program tomanage",
+        "score": 0.951
+      },
+      {
+        "text": "5",
+        "score": 0.998
+      },
+      {
+        "text": "Arithmeticexception injava.",
+        "score": 0.96
+      },
+      {
+        "text": "Whathappensifanexceptionisnotcaught?Whatwillbethe output of thefollowingprogram",
+        "score": 0.968
+      },
+      {
+        "text": "5",
+        "score": 0.997
+      },
+      {
+        "text": "ClassA{",
+        "score": 0.952
+      },
+      {
+        "text": "Public static voidmain(Stringargs){",
+        "score": 0.932
+      },
+      {
+        "text": "Try:",
+        "score": 0.871
+      },
+      {
+        "text": "inta={5,10,15);",
+        "score": 0.879
+      },
+      {
+        "text": "System.out.println(a[5]);",
+        "score": 0.919
+      },
+      {
+        "text": "System.out.println(10/0);",
+        "score": 0.96
+      },
+      {
+        "text": "catch(ArithmeticExceptione){",
+        "score": 0.955
+      },
+      {
+        "text": "System.out.println(\"ArithmeticException\");",
+        "score": 0.952
+      },
+      {
+        "text": "catch(ArrayIndexOutOfBoundsExceptione)",
+        "score": 0.969
+      },
+      {
+        "text": "System.out.println(\"Hello world”);",
+        "score": 0.908
+      },
+      {
+        "text": "；",
+        "score": 0.507
+      },
+      {
+        "text": "System.out.println(Exception Handling\");",
+        "score": 0.945
+      },
+      {
+        "text": "d",
+        "score": 0.938
+      },
+      {
+        "text": "What isinlinefunction?Write down the advantagesandlimitationsofinlinefunction.",
+        "score": 0.948
+      },
+      {
+        "text": "4.33",
+        "score": 0.996
+      },
+      {
+        "text": "e)",
+        "score": 0.957
+      },
+      {
+        "text": "Whatistemplate?Whatwouldbetheoutputof thefollowingprogram:",
+        "score": 0.981
+      },
+      {
+        "text": "#include<iostream>",
+        "score": 0.984
+      },
+      {
+        "text": "5",
+        "score": 0.98
+      },
+      {
+        "text": "using namespace std;",
+        "score": 0.968
+      },
+      {
+        "text": "template<typenameT>",
+        "score": 0.989
+      },
+      {
+        "text": "void print_data(Toutput)",
+        "score": 0.928
+      },
+      {
+        "text": ":a>>ndno>no",
+        "score": 0.605
+      },
+      {
+        "text": "intmainO",
+        "score": 0.958
+      },
+      {
+        "text": "Scannedwith CamScanner",
+        "score": 0.97
+      }
+    ],
+    [
+      {
+        "text": "doubled=5.5;",
+        "score": 0.979
+      },
+      {
+        "text": "inta=10;",
+        "score": 0.972
+      },
+      {
+        "text": "print_data(d);",
+        "score": 0.978
+      },
+      {
+        "text": "print_data(a);",
+        "score": 0.978
+      },
+      {
+        "text": "return O;",
+        "score": 0.895
+      },
+      {
+        "text": "04",
+        "score": 0.998
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.839
+      },
+      {
+        "text": "Definemultiple inheritance.Give anexampleof ambiguityinmultiple inheritance.",
+        "score": 0.962
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "Explain theconceptofoperator overloading.What are theways tooverload an operatorin",
+        "score": 0.953
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "c++?",
+        "score": 0.953
+      },
+      {
+        "text": "(P",
+        "score": 0.723
+      },
+      {
+        "text": "Howtoprevent overridingandinheritance usingfinal keyword?Explainwithexample",
+        "score": 0.971
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "e)",
+        "score": 0.96
+      },
+      {
+        "text": "Definestatickeyword.Writedown thedifferencesamongpublic,privateandprotected access",
+        "score": 0.942
+      },
+      {
+        "text": "5.33",
+        "score": 0.994
+      },
+      {
+        "text": "specifier in a class.",
+        "score": 0.972
+      },
+      {
+        "text": "05",
+        "score": 0.998
+      },
+      {
+        "text": "a)",
+        "score": 0.905
+      },
+      {
+        "text": "What is thedifference betweenoverloading and overriding conceptsinC++?Explain the",
+        "score": 0.951
+      },
+      {
+        "text": "8",
+        "score": 0.995
+      },
+      {
+        "text": "usage of these conceptswith suitable examplecode in C++/Java?",
+        "score": 0.942
+      },
+      {
+        "text": "b)",
+        "score": 0.714
+      },
+      {
+        "text": "Howto createa thread?Mention the advantages ofmultithreading.",
+        "score": 0.959
+      },
+      {
+        "text": "6",
+        "score": 0.996
+      },
+      {
+        "text": "c)",
+        "score": 0.837
+      },
+      {
+        "text": "Whatwill be theoutput of thefollowingprogram?",
+        "score": 0.962
+      },
+      {
+        "text": "5",
+        "score": 0.996
+      },
+      {
+        "text": "1.",
+        "score": 0.963
+      },
+      {
+        "text": "abstract classBike",
+        "score": 0.961
+      },
+      {
+        "text": "2.",
+        "score": 0.979
+      },
+      {
+        "text": "BikeO{System.out.println(\"bike is created\");}",
+        "score": 0.9
+      },
+      {
+        "text": "3.",
+        "score": 0.969
+      },
+      {
+        "text": "abstract void runO;",
+        "score": 0.93
+      },
+      {
+        "text": "4.",
+        "score": 0.97
+      },
+      {
+        "text": "void changeGearO{System.out.println(\"gear changed\");)",
+        "score": 0.923
+      },
+      {
+        "text": "5.",
+        "score": 0.98
+      },
+      {
+        "text": "6.",
+        "score": 0.962
+      },
+      {
+        "text": "7.",
+        "score": 0.974
+      },
+      {
+        "text": "classHondaextendsBike",
+        "score": 0.991
+      },
+      {
+        "text": "8.",
+        "score": 0.981
+      },
+      {
+        "text": "void runO{System.out.println(\"running safely.\");)",
+        "score": 0.916
+      },
+      {
+        "text": "classTestAbstraction2{",
+        "score": 0.961
+      },
+      {
+        "text": "publie statie voidmain(String args){",
+        "score": 0.914
+      },
+      {
+        "text": "Bike obj=newHondaO;",
+        "score": 0.947
+      },
+      {
+        "text": "obj.runO;",
+        "score": 0.976
+      },
+      {
+        "text": "obj.changeGearO;",
+        "score": 0.984
+      },
+      {
+        "text": "d)Show the life cycle of a thread.",
+        "score": 0.936
+      },
+      {
+        "text": "4.33",
+        "score": 0.997
+      },
+      {
+        "text": "ScannedwithCamScanner",
+        "score": 0.993
+      }
+    ]
+  ],
+  "cse-301-oop-2021": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.949
+      },
+      {
+        "text": "Affiliated Engineering Colleges",
+        "score": 0.949
+      },
+      {
+        "text": "B.Sc.in Computer Science &Engineering",
+        "score": 0.968
+      },
+      {
+        "text": "2ndYear1SemesterFinal Examination-2021",
+        "score": 0.953
+      },
+      {
+        "text": "CSE2102（Object Oriented Programming)",
+        "score": 0.935
+      },
+      {
+        "text": "Time:3.00 Hours",
+        "score": 0.963
+      },
+      {
+        "text": "[Answer any Five questions]",
+        "score": 0.943
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.98
+      },
+      {
+        "text": "a)",
+        "score": 0.835
+      },
+      {
+        "text": "What is OOP?Whyit iseffective overstructured programming?Explain.",
+        "score": 0.945
+      },
+      {
+        "text": "b)",
+        "score": 0.867
+      },
+      {
+        "text": "Writedown the general formofclass.Differentiate between class and objects withexample.",
+        "score": 0.918
+      },
+      {
+        "text": "3",
+        "score": 0.988
+      },
+      {
+        "text": "Whatismeantbydata hiding?What are thedifferencesamongpublic,protected and private access",
+        "score": 0.9
+      },
+      {
+        "text": "3",
+        "score": 0.983
+      },
+      {
+        "text": "c)",
+        "score": 0.611
+      },
+      {
+        "text": "specifier in a class?",
+        "score": 0.942
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "(P",
+        "score": 0.769
+      },
+      {
+        "text": "Writea programtofind out theminimumoftwogivennumbersThenumberscanbe integer,long",
+        "score": 0.888
+      },
+      {
+        "text": "and double.Overload a minO function to handle those three types of data.",
+        "score": 0.953
+      },
+      {
+        "text": "2",
+        "score": 0.989
+      },
+      {
+        "text": "a)",
+        "score": 0.84
+      },
+      {
+        "text": "A constructor isa special functionina classExplain whya constructor is different than other",
+        "score": 0.894
+      },
+      {
+        "text": "member function.Give examples.",
+        "score": 0.974
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.76
+      },
+      {
+        "text": "Define constructor overlonding?What are the reasons to overload constructor?",
+        "score": 0.97
+      },
+      {
+        "text": "What isinterface?Why use java interface？Whymultiple inheritance is supported in Interface",
+        "score": 0.912
+      },
+      {
+        "text": "3",
+        "score": 0.986
+      },
+      {
+        "text": "C)",
+        "score": 0.567
+      },
+      {
+        "text": "while it is not supported in case of class?",
+        "score": 0.945
+      },
+      {
+        "text": "S",
+        "score": 0.546
+      },
+      {
+        "text": "d)",
+        "score": 0.755
+      },
+      {
+        "text": "Why this keyword is used in java language?",
+        "score": 0.965
+      },
+      {
+        "text": "3",
+        "score": 0.962
+      },
+      {
+        "text": "3.",
+        "score": 0.936
+      },
+      {
+        "text": "Why should you define yourclasses within yourown package?Howcan you definea package?",
+        "score": 0.942
+      },
+      {
+        "text": "3",
+        "score": 0.99
+      },
+      {
+        "text": "b)",
+        "score": 0.844
+      },
+      {
+        "text": "What are similarities and differences betweenjava class and java interface?",
+        "score": 0.942
+      },
+      {
+        "text": "3",
+        "score": 0.911
+      },
+      {
+        "text": "C)",
+        "score": 0.526
+      },
+      {
+        "text": "Define method overridingwith suitable example?What are therules formethod overriding?",
+        "score": 0.929
+      },
+      {
+        "text": "3",
+        "score": 0.978
+      },
+      {
+        "text": "d)",
+        "score": 0.758
+      },
+      {
+        "text": "Write a simple java program to read data from keyboard and write into file.",
+        "score": 0.927
+      },
+      {
+        "text": "4",
+        "score": 0.625
+      },
+      {
+        "text": "What isBye code injava?",
+        "score": 0.959
+      },
+      {
+        "text": "2",
+        "score": 0.997
+      },
+      {
+        "text": "b)",
+        "score": 0.85
+      },
+      {
+        "text": "What doyou mcanby abstract class?Why it is needed?Explain with example.",
+        "score": 0.932
+      },
+      {
+        "text": "6",
+        "score": 0.994
+      },
+      {
+        "text": ")",
+        "score": 0.684
+      },
+      {
+        "text": "What isGarbageCollection in JAVA? How doesGarbageCollection works inJAVA?",
+        "score": 0.95
+      },
+      {
+        "text": "6",
+        "score": 0.996
+      },
+      {
+        "text": "5.",
+        "score": 0.849
+      },
+      {
+        "text": "a)",
+        "score": 0.78
+      },
+      {
+        "text": "What are different access modifiers in Java?",
+        "score": 0.956
+      },
+      {
+        "text": "3",
+        "score": 0.985
+      },
+      {
+        "text": "(q",
+        "score": 0.757
+      },
+      {
+        "text": "What is dynamic method dispatch?illustrated with example.",
+        "score": 0.915
+      },
+      {
+        "text": "Write the definition of package with example.What are the necessities of package?What is the",
+        "score": 0.913
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "procedure of creatinga package?lllustrate with psedu code.",
+        "score": 0.942
+      },
+      {
+        "text": "6.",
+        "score": 0.966
+      },
+      {
+        "text": "a)",
+        "score": 0.92
+      },
+      {
+        "text": "Discusshow try-catch-finally blockworks in java.",
+        "score": 0.962
+      },
+      {
+        "text": "3",
+        "score": 0.982
+      },
+      {
+        "text": "b)",
+        "score": 0.863
+      },
+      {
+        "text": "Writea program that takestwo integers fromkeyboard to perform division operation.A try block",
+        "score": 0.929
+      },
+      {
+        "text": "to throw an exception when a wrong type of data iskeyed or division by zero is occurred.Also",
+        "score": 0.933
+      },
+      {
+        "text": "write appropriate catch block to handle the exception thrown.",
+        "score": 0.967
+      },
+      {
+        "text": "?",
+        "score": 0.71
+      },
+      {
+        "text": "How can you define your own exception type in java?Explain with example.",
+        "score": 0.935
+      },
+      {
+        "text": "4",
+        "score": 0.996
+      },
+      {
+        "text": "d)",
+        "score": 0.765
+      },
+      {
+        "text": "What happens when a class member is declared as static?What restrictions are applied to a",
+        "score": 0.946
+      },
+      {
+        "text": "method that is declared as static?",
+        "score": 0.951
+      },
+      {
+        "text": "7",
+        "score": 0.541
+      },
+      {
+        "text": "a)",
+        "score": 0.85
+      },
+      {
+        "text": "How to checkpalindrome stringin JAVA?",
+        "score": 0.951
+      },
+      {
+        "text": "4",
+        "score": 0.993
+      },
+      {
+        "text": "b)",
+        "score": 0.883
+      },
+      {
+        "text": "Is there anywrongorerrorin the followingcode?lfyou find any error thenmark,write thecorrect",
+        "score": 0.902
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "code&output.",
+        "score": 0.948
+      },
+      {
+        "text": "i.",
+        "score": 0.744
+      },
+      {
+        "text": "ii.",
+        "score": 0.57
+      },
+      {
+        "text": "cluss Box{",
+        "score": 0.875
+      },
+      {
+        "text": "class boxDemo(",
+        "score": 0.886
+      },
+      {
+        "text": "int width;",
+        "score": 0.945
+      },
+      {
+        "text": "public static void main(string args）",
+        "score": 0.918
+      },
+      {
+        "text": "float height;",
+        "score": 0.949
+      },
+      {
+        "text": "Box mybox=new Box;",
+        "score": 0.953
+      },
+      {
+        "text": "double depth;",
+        "score": 0.978
+      },
+      {
+        "text": "double vol;",
+        "score": 0.942
+      },
+      {
+        "text": "mybox.width-10.00;",
+        "score": 0.976
+      },
+      {
+        "text": "mybox.height-20",
+        "score": 0.941
+      },
+      {
+        "text": "mybox.depth=15.50;",
+        "score": 0.965
+      },
+      {
+        "text": "vol=mybox.width·mybox.height",
+        "score": 0.952
+      },
+      {
+        "text": "mybox.depth;",
+        "score": 0.993
+      },
+      {
+        "text": "System.out.println(\"Volume is\"+vol);)",
+        "score": 0.902
+      },
+      {
+        "text": "c)Write down the output of following code:",
+        "score": 0.934
+      },
+      {
+        "text": "i",
+        "score": 0.883
+      },
+      {
+        "text": "i1.",
+        "score": 0.549
+      },
+      {
+        "text": "public class Main",
+        "score": 0.908
+      },
+      {
+        "text": "public class Main(",
+        "score": 0.936
+      },
+      {
+        "text": "public staticvoid main（Stringl]args）(",
+        "score": 0.893
+      },
+      {
+        "text": "public static void main(Stringll args)",
+        "score": 0.892
+      },
+      {
+        "text": "int Hello_World=111l;",
+        "score": 0.917
+      },
+      {
+        "text": "int digit=15;",
+        "score": 0.912
+      },
+      {
+        "text": "System.out.printin(\"Hello World\"):",
+        "score": 0.914
+      },
+      {
+        "text": "System.out.println(\"WelcomeToMEC\");",
+        "score": 0.909
+      },
+      {
+        "text": "digit-20;",
+        "score": 0.955
+      },
+      {
+        "text": "/System.out.printin(Hello_World):",
+        "score": 0.922
+      },
+      {
+        "text": "System.out.printin(digit):",
+        "score": 0.902
+      },
+      {
+        "text": "System.out.printin（\"Hello_World\");)",
+        "score": 0.857
+      }
+    ]
+  ],
+  "cse-301-oop-2022": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.962
+      },
+      {
+        "text": "Affiliated Engineering Colleges",
+        "score": 0.971
+      },
+      {
+        "text": "Department of Computer Science and Engineering",
+        "score": 0.956
+      },
+      {
+        "text": "2ndYear1SemesterB.Sc.in CSEFinal Examination,2022",
+        "score": 0.943
+      },
+      {
+        "text": "CSE-2102:ObjectOrientedProgramming",
+        "score": 0.987
+      },
+      {
+        "text": "Time:3Hours",
+        "score": 0.981
+      },
+      {
+        "text": "Total Marks:70",
+        "score": 0.966
+      },
+      {
+        "text": "Answer any5(Five)of the followingQuestions:",
+        "score": 0.961
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "ayWhat ismeantbyOOP?Explain thefundamental principles of OOP and their significance.",
+        "score": 0.925
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "Define byte code.Give and explain thebasic structure of java program.",
+        "score": 0.955
+      },
+      {
+        "text": "3",
+        "score": 0.977
+      },
+      {
+        "text": ")Define class with example.wysmainmethd stae mava?expran.",
+        "score": 0.842
+      },
+      {
+        "text": "5",
+        "score": 0.945
+      },
+      {
+        "text": "d",
+        "score": 0.507
+      },
+      {
+        "text": "Consider the following java programwritten by a noviceprogrammer:",
+        "score": 0.936
+      },
+      {
+        "text": "ClassJavaTest extends ClassA,ClassB",
+        "score": 0.953
+      },
+      {
+        "text": "public void main(String*args){",
+        "score": 0.926
+      },
+      {
+        "text": "System.In.println(This is a simple java program”);",
+        "score": 0.932
+      },
+      {
+        "text": "Point out his mistakes.Also correct the program so that it can be compiled.",
+        "score": 0.957
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "5",
+        "score": 0.996
+      },
+      {
+        "text": "Write a Java program to find the prime numbers in a given range.",
+        "score": 0.954
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "C)",
+        "score": 0.762
+      },
+      {
+        "text": "Is there anymethod to call a sub-class constructor from a superclass constructor?",
+        "score": 0.94
+      },
+      {
+        "text": "3",
+        "score": 0.988
+      },
+      {
+        "text": "(P",
+        "score": 0.576
+      },
+      {
+        "text": "Why constructors in Java cannot be static?",
+        "score": 0.935
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "3.",
+        "score": 0.98
+      },
+      {
+        "text": "a)",
+        "score": 0.932
+      },
+      {
+        "text": "What is inheritance？Discuss different types of inheritancewith block dtagram and example.",
+        "score": 0.927
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "(q",
+        "score": 0.888
+      },
+      {
+        "text": "What is the ambiguity that arises in multiple inheritance?How it can be overcome?Explain",
+        "score": 0.948
+      },
+      {
+        "text": "with example.",
+        "score": 0.953
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "C)",
+        "score": 0.684
+      },
+      {
+        "text": "Definemethod overridingwith suitableexample?What are therulesfor methodoverriding?",
+        "score": 0.963
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "Define method overloading. Can we overload mainO method in java?Explain.",
+        "score": 0.942
+      },
+      {
+        "text": "a)",
+        "score": 0.928
+      },
+      {
+        "text": "What is Garbage Collection in Java?How does Garbage Collection work in Java?",
+        "score": 0.952
+      },
+      {
+        "text": "5",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.881
+      },
+      {
+        "text": "Describe Inner Class& Outer Classwith suitable example.",
+        "score": 0.943
+      },
+      {
+        "text": "5",
+        "score": 0.958
+      },
+      {
+        "text": "c)",
+        "score": 0.644
+      },
+      {
+        "text": "What does it mean by abstract class?Why is it needed?Explain.",
+        "score": 0.93
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "5.",
+        "score": 0.702
+      },
+      {
+        "text": "a)",
+        "score": 0.936
+      },
+      {
+        "text": "Discuss dynamic method dispatch with example.",
+        "score": 0.946
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.882
+      },
+      {
+        "text": "Dynamicbinding is also referred to as a run-time polymorphism.Expand&Explain.",
+        "score": 0.941
+      },
+      {
+        "text": "6",
+        "score": 0.999
+      },
+      {
+        "text": "C)",
+        "score": 0.681
+      },
+      {
+        "text": "Write a Java program that has a class named shape. In this program there are three sub",
+        "score": 0.959
+      },
+      {
+        "text": "classes named circle,triangle and square.Here,each class has two membermethodsnamed",
+        "score": 0.923
+      },
+      {
+        "text": "drawO&eraseO.",
+        "score": 0.916
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "6.",
+        "score": 0.969
+      },
+      {
+        "text": "a)",
+        "score": 0.895
+      },
+      {
+        "text": "Define generics.What are bounded types inJava generics,and how do they restrict the types",
+        "score": 0.925
+      },
+      {
+        "text": "that can be used as type arguments?",
+        "score": 0.964
+      },
+      {
+        "text": "5",
+        "score": 0.991
+      },
+      {
+        "text": "(q",
+        "score": 0.65
+      },
+      {
+        "text": "Define inner class.Write a program that will illustrate the concept of method local inner",
+        "score": 0.939
+      },
+      {
+        "text": "class.",
+        "score": 0.987
+      },
+      {
+        "text": "3",
+        "score": 0.994
+      },
+      {
+        "text": "C)",
+        "score": 0.688
+      },
+      {
+        "text": "Why doyou use superkeyword?What are the conditionsfor aclass to become abstract?Can",
+        "score": 0.925
+      },
+      {
+        "text": "you declare an object of abstract class?",
+        "score": 0.954
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "d)",
+        "score": 0.765
+      },
+      {
+        "text": "What is final keyword?Why “this”keyword is used in java language?Explain with example.",
+        "score": 0.931
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "Discuss the basic structure of exception handling in java.",
+        "score": 0.94
+      },
+      {
+        "text": "5",
+        "score": 0.913
+      },
+      {
+        "text": "7",
+        "score": 0.988
+      },
+      {
+        "text": "a)",
+        "score": 0.957
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.943
+      },
+      {
+        "text": "Explain the use of finally block in java exception handling mechanism.",
+        "score": 0.943
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "c)",
+        "score": 0.628
+      },
+      {
+        "text": "List five common examples of exceptions.",
+        "score": 0.964
+      },
+      {
+        "text": "d",
+        "score": 0.879
+      },
+      {
+        "text": "Explain the role of the\"throw”and\"throws\"keywords in Java exception handling with",
+        "score": 0.918
+      },
+      {
+        "text": "properexample.",
+        "score": 0.988
+      }
+    ]
+  ],
+  "cse-301-oop-2023": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.92
+      },
+      {
+        "text": "AmllatedEnginceringCollege",
+        "score": 0.914
+      },
+      {
+        "text": "Departmentof ComputerScienceand Engineering",
+        "score": 0.952
+      },
+      {
+        "text": "2Year1\"SemesterFinal Examination-2023",
+        "score": 0.927
+      },
+      {
+        "text": "Course Code:CSE2102",
+        "score": 0.942
+      },
+      {
+        "text": "Time:3hours",
+        "score": 0.961
+      },
+      {
+        "text": "CourseTitle:ObjectOrientedProgramming",
+        "score": 0.953
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.981
+      },
+      {
+        "text": "1.a)What isOOP?Why it is effective over structured programming?Explain.",
+        "score": 0.879
+      },
+      {
+        "text": "[Answer any Five Questions]",
+        "score": 0.939
+      },
+      {
+        "text": "b)Write down the general form ofclass.Differentiate between classandobjects with",
+        "score": 0.903
+      },
+      {
+        "text": "[3]",
+        "score": 0.899
+      },
+      {
+        "text": "example.",
+        "score": 0.981
+      },
+      {
+        "text": "[3]",
+        "score": 0.989
+      },
+      {
+        "text": "c)Whatismeant by dathiding？Whatare the diferencesamong publi,protected and",
+        "score": 0.847
+      },
+      {
+        "text": "private access specifier in a class?",
+        "score": 0.935
+      },
+      {
+        "text": "[3]",
+        "score": 0.945
+      },
+      {
+        "text": "d）Write a program tofind out the minimum of two givennumbers.The numbers can be",
+        "score": 0.888
+      },
+      {
+        "text": "integer,longand double.Overloadamin)function tohandle those three typesof data.",
+        "score": 0.93
+      },
+      {
+        "text": "[5]",
+        "score": 0.899
+      },
+      {
+        "text": "2.a)WhydoweusethekeywordstaticinJava?WhyconstructorsinJavacannotbestati?",
+        "score": 0.876
+      },
+      {
+        "text": "b)WriteaJava program tofind thefactorialvalue ofa given number.",
+        "score": 0.931
+      },
+      {
+        "text": "[]",
+        "score": 0.638
+      },
+      {
+        "text": "c)Write shortnoteonGarbageCollectioninJava.",
+        "score": 0.965
+      },
+      {
+        "text": "[④]",
+        "score": 0.677
+      },
+      {
+        "text": "d)What are different access modifiers inJava?Explain in short.",
+        "score": 0.927
+      },
+      {
+        "text": "[3]",
+        "score": 0.911
+      },
+      {
+        "text": "[3]",
+        "score": 0.904
+      },
+      {
+        "text": "3.a)WhatismethodoveridinginJavaandhowdoeitdiffrfrmmethdoverloading？What",
+        "score": 0.794
+      },
+      {
+        "text": "are the rules that govem method overriding?",
+        "score": 0.934
+      },
+      {
+        "text": "[4]",
+        "score": 0.877
+      },
+      {
+        "text": "b)Whydoyouusesuperkeyword？Whataretheconditionsforaclasstobecomeabstract?",
+        "score": 0.907
+      },
+      {
+        "text": "Can you declareanobject of abstractclass?",
+        "score": 0.935
+      },
+      {
+        "text": "[4]",
+        "score": 0.862
+      },
+      {
+        "text": "c)Createa Java class called BankAccount with properties accountNumber （String),",
+        "score": 0.926
+      },
+      {
+        "text": "acountHolderName (String）.and balance （double）.Implement a parameterized",
+        "score": 0.925
+      },
+      {
+        "text": "[]",
+        "score": 0.779
+      },
+      {
+        "text": "constructor thatinitializesthese properties.Writeamethod todepositmoney into the",
+        "score": 0.926
+      },
+      {
+        "text": "accountand anothermethod towithdrawmoneyfrom theaccount andamethod todisplay",
+        "score": 0.956
+      },
+      {
+        "text": "the final balance.",
+        "score": 0.955
+      },
+      {
+        "text": "4.a)Discuss how try-catch-finally block worksinjava.",
+        "score": 0.946
+      },
+      {
+        "text": "b）DefinepolymorhismHowdoyoudeclareanddefineninterfaceinJavandwhatare",
+        "score": 0.799
+      },
+      {
+        "text": "[4]",
+        "score": 0.951
+      },
+      {
+        "text": "the rulesforimplementingit inclasses?",
+        "score": 0.947
+      },
+      {
+        "text": "[5]",
+        "score": 0.92
+      },
+      {
+        "text": "c)What isconstructorchaining？How doyoucallone constructorfrom anotherconstructor[5]",
+        "score": 0.932
+      },
+      {
+        "text": "within the same classusingconstructorchaining?",
+        "score": 0.962
+      },
+      {
+        "text": "5.a)What is inheritance？Discuss different types of inheritance with block diagram and[4]",
+        "score": 0.949
+      },
+      {
+        "text": "example.",
+        "score": 0.983
+      },
+      {
+        "text": "b)Define constructor.Howisaconstructor differentfrom aregular method？Explain with",
+        "score": 0.937
+      },
+      {
+        "text": "example.",
+        "score": 0.929
+      },
+      {
+        "text": "[e]",
+        "score": 0.685
+      },
+      {
+        "text": "c)Whyusejavainterface?Whymultipleinheritanceissupportedininterfacewhileitisnot",
+        "score": 0.926
+      },
+      {
+        "text": "supported in case of class?",
+        "score": 0.917
+      },
+      {
+        "text": "[4]",
+        "score": 0.882
+      },
+      {
+        "text": "d)Definemethod overloading.Can weoverloadmainOmethod injava?Explain.",
+        "score": 0.944
+      },
+      {
+        "text": "[3]",
+        "score": 0.978
+      },
+      {
+        "text": "6.a)Define generics.What are bounded typesin Java generics.and how do theyrestrict the",
+        "score": 0.934
+      },
+      {
+        "text": "[4]",
+        "score": 0.853
+      },
+      {
+        "text": "b）",
+        "score": 0.764
+      },
+      {
+        "text": "Howcan you defineyourownexception type inJava?Give example.",
+        "score": 0.941
+      },
+      {
+        "text": "[5]",
+        "score": 0.758
+      },
+      {
+        "text": "operationhavingatryblocktothrowanexceptionwhenawrongtypeofdataiskeyedor",
+        "score": 0.954
+      },
+      {
+        "text": "[5]",
+        "score": 0.886
+      },
+      {
+        "text": "division byzeroisoccured.Alsowrite appropriatecatch blockto handletheexception",
+        "score": 0.941
+      },
+      {
+        "text": "thrown.",
+        "score": 0.996
+      },
+      {
+        "text": "7.a)Whatis the use of packages inJava?Explain the process of creating package.",
+        "score": 0.928
+      },
+      {
+        "text": "b)WriteaJavaProgram toCopy thevalues from one object to another Object.",
+        "score": 0.924
+      },
+      {
+        "text": "[s]",
+        "score": 0.789
+      },
+      {
+        "text": "c)Whatwillbe the output of thefollowingJavacode?",
+        "score": 0.941
+      },
+      {
+        "text": "[6]",
+        "score": 0.813
+      },
+      {
+        "text": "impornjava.io.\"",
+        "score": 0.893
+      },
+      {
+        "text": "[3]",
+        "score": 0.986
+      },
+      {
+        "text": "classfiles",
+        "score": 0.969
+      },
+      {
+        "text": "public staticvoidmain(Stringargs)",
+        "score": 0.937
+      },
+      {
+        "text": "File obj =new File(\"/java/system\");",
+        "score": 0.895
+      },
+      {
+        "text": "System.out.print(obj.getName():",
+        "score": 0.914
+      }
+    ]
+  ],
+  "cse-303-data-structure-2020": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.95
+      },
+      {
+        "text": "AffiliatedEngineeringColleges",
+        "score": 0.992
+      },
+      {
+        "text": "Department of Computer Science&Engineering",
+        "score": 0.959
+      },
+      {
+        "text": "2ndYear1\"SemesterExamination-2020(Session:2018-19)",
+        "score": 0.96
+      },
+      {
+        "text": "Subject:Data Structure",
+        "score": 0.97
+      },
+      {
+        "text": "Course Code:CSE-303",
+        "score": 0.961
+      },
+      {
+        "text": "TotalMarks:70",
+        "score": 0.984
+      },
+      {
+        "text": "Time:2(two)hours",
+        "score": 0.934
+      },
+      {
+        "text": "Answer any three(3)questions",
+        "score": 0.968
+      },
+      {
+        "text": "01",
+        "score": 0.994
+      },
+      {
+        "text": "a)",
+        "score": 0.819
+      },
+      {
+        "text": "Consider the following stackofcharacterswhere STACK isallocatedN=8memories:STACK:",
+        "score": 0.96
+      },
+      {
+        "text": "A,C,D,F,K,",
+        "score": 0.897
+      },
+      {
+        "text": "i.",
+        "score": 0.767
+      },
+      {
+        "text": "POP(STACK,ITEM).",
+        "score": 0.917
+      },
+      {
+        "text": "ii.",
+        "score": 0.807
+      },
+      {
+        "text": "POP(STACK,ITEM).",
+        "score": 0.933
+      },
+      {
+        "text": "ii.",
+        "score": 0.628
+      },
+      {
+        "text": "PUSH(STACK,L).",
+        "score": 0.945
+      },
+      {
+        "text": "iv.",
+        "score": 0.982
+      },
+      {
+        "text": "PUSH(STACK,P).",
+        "score": 0.924
+      },
+      {
+        "text": "V.",
+        "score": 0.895
+      },
+      {
+        "text": "POP(STACK,ITEM).",
+        "score": 0.939
+      },
+      {
+        "text": "b)",
+        "score": 0.76
+      },
+      {
+        "text": "Explain stack andqueue with example.Write down an algorithm whichPUSHes an item",
+        "score": 0.931
+      },
+      {
+        "text": "3+4=7",
+        "score": 0.988
+      },
+      {
+        "text": "onto a stack.",
+        "score": 0.937
+      },
+      {
+        "text": "c)",
+        "score": 0.651
+      },
+      {
+        "text": "Usingalgorithms translate topostfixexpression andevaluate thefollowinginfixexpression:",
+        "score": 0.975
+      },
+      {
+        "text": "6",
+        "score": 0.999
+      },
+      {
+        "text": "P=12/（7-3)+2*(1+5)",
+        "score": 0.907
+      },
+      {
+        "text": "(P",
+        "score": 0.706
+      },
+      {
+        "text": "DefineHeap.Writedown theproperties of max-heapandmin-heapwith example",
+        "score": 0.96
+      },
+      {
+        "text": "1.33+4",
+        "score": 0.993
+      },
+      {
+        "text": "=5.33",
+        "score": 0.991
+      },
+      {
+        "text": "02",
+        "score": 0.998
+      },
+      {
+        "text": "a)",
+        "score": 0.962
+      },
+      {
+        "text": "Howa 2Darrayrepresentedinmemory.",
+        "score": 0.982
+      },
+      {
+        "text": "3",
+        "score": 0.997
+      },
+      {
+        "text": "b)",
+        "score": 0.91
+      },
+      {
+        "text": "WhatisLinkedlist?Howlinkedlist overcomethelimitationofarray.Write down the2+3+5",
+        "score": 0.968
+      },
+      {
+        "text": "algorithm toimplement thefollowingoperationsof linked_list",
+        "score": 0.964
+      },
+      {
+        "text": "=10",
+        "score": 0.993
+      },
+      {
+        "text": "i.",
+        "score": 0.85
+      },
+      {
+        "text": "toinsert anelement after thegivenelements of thelist",
+        "score": 0.949
+      },
+      {
+        "text": "ii.",
+        "score": 0.84
+      },
+      {
+        "text": "todeleteanelementfrom theendof thelist.",
+        "score": 0.962
+      },
+      {
+        "text": "9",
+        "score": 0.836
+      },
+      {
+        "text": "Howmanynumberofswappingneeded to sort the charactersPEOPLEin ascendingorder,",
+        "score": 0.964
+      },
+      {
+        "text": "5",
+        "score": 0.997
+      },
+      {
+        "text": "usingBUBBLESORTalgorithm.",
+        "score": 0.987
+      },
+      {
+        "text": "P",
+        "score": 0.853
+      },
+      {
+        "text": "Suppose a10element arrayAcontain thevalues al,a2,.....a10.Find thevalues",
+        "score": 0.919
+      },
+      {
+        "text": "5.33",
+        "score": 0.994
+      },
+      {
+        "text": "inA after the loop.",
+        "score": 0.95
+      },
+      {
+        "text": "Repeat forK=1to9",
+        "score": 0.961
+      },
+      {
+        "text": "SetA[K+1]:=A[K]",
+        "score": 0.927
+      },
+      {
+        "text": "[End of Loop]",
+        "score": 0.951
+      },
+      {
+        "text": "03a）",
+        "score": 0.871
+      },
+      {
+        "text": "Figure showa linked list in memory.If start=4 and avail=3,write the sequenceofcharacters",
+        "score": 0.934
+      },
+      {
+        "text": "5",
+        "score": 0.999
+      },
+      {
+        "text": "in thelist.DrawtheLinkedList afterinsertingG at thebeginningof thelist.",
+        "score": 0.959
+      },
+      {
+        "text": "INFO",
+        "score": 0.995
+      },
+      {
+        "text": "LINK",
+        "score": 0.992
+      },
+      {
+        "text": "1",
+        "score": 0.967
+      },
+      {
+        "text": "A",
+        "score": 0.993
+      },
+      {
+        "text": "2",
+        "score": 0.996
+      },
+      {
+        "text": "2",
+        "score": 0.996
+      },
+      {
+        "text": "B",
+        "score": 0.997
+      },
+      {
+        "text": "8",
+        "score": 0.994
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "6",
+        "score": 0.996
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "C",
+        "score": 0.913
+      },
+      {
+        "text": "7",
+        "score": 0.997
+      },
+      {
+        "text": "5",
+        "score": 0.996
+      },
+      {
+        "text": "D",
+        "score": 0.984
+      },
+      {
+        "text": "0",
+        "score": 0.923
+      },
+      {
+        "text": "6",
+        "score": 0.997
+      },
+      {
+        "text": "0",
+        "score": 0.978
+      },
+      {
+        "text": "7",
+        "score": 0.999
+      },
+      {
+        "text": "E",
+        "score": 0.992
+      },
+      {
+        "text": "1",
+        "score": 0.969
+      },
+      {
+        "text": "8",
+        "score": 0.998
+      },
+      {
+        "text": "F",
+        "score": 0.997
+      },
+      {
+        "text": "5",
+        "score": 0.995
+      },
+      {
+        "text": "b)",
+        "score": 0.794
+      },
+      {
+        "text": "SupposeLISTisaLinkedListin memory.Write an algorithmwhich deletes the lastnode",
+        "score": 0.951
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "from LIST.",
+        "score": 0.919
+      },
+      {
+        "text": "c)",
+        "score": 0.575
+      },
+      {
+        "text": "Writedown theadvantages anddisadvantagesofarrayoverlinkedlist.",
+        "score": 0.979
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "d",
+        "score": 0.929
+      },
+      {
+        "text": "ExplainwithappropriatefigurehowanodeNbetweenNodeA andNodeBcanbedeleted",
+        "score": 0.974
+      },
+      {
+        "text": "form a LinkedList?",
+        "score": 0.964
+      },
+      {
+        "text": "ScannedwithCamScanner",
+        "score": 0.993
+      }
+    ],
+    [
+      {
+        "text": "04",
+        "score": 0.999
+      },
+      {
+        "text": "4a)Define thefollowing termswith anexample:",
+        "score": 0.956
+      },
+      {
+        "text": "i.Tree",
+        "score": 0.976
+      },
+      {
+        "text": "ii.Full Binary Tree",
+        "score": 0.963
+      },
+      {
+        "text": "ii.CompleteBinaryTree",
+        "score": 0.931
+      },
+      {
+        "text": "b)From thefollowing BinaryTreefind thesequence of nodesWhen traversing:",
+        "score": 0.949
+      },
+      {
+        "text": "i.Pre-Order",
+        "score": 0.972
+      },
+      {
+        "text": "ii.In-Order",
+        "score": 0.965
+      },
+      {
+        "text": "iii.Post-Order",
+        "score": 0.93
+      },
+      {
+        "text": "Constructabinarysearchtreeinsertingthefollowingnumbersinorderintoanemptybinary",
+        "score": 0.991
+      },
+      {
+        "text": "6.33",
+        "score": 0.996
+      },
+      {
+        "text": "search tree:40,60,20,50,55,35.",
+        "score": 0.908
+      },
+      {
+        "text": "P",
+        "score": 0.915
+      },
+      {
+        "text": "Considertheheapfollowingheap.Write down thestepstodeletetherootof that heapwith",
+        "score": 0.969
+      },
+      {
+        "text": "8",
+        "score": 0.992
+      },
+      {
+        "text": "figures.",
+        "score": 0.979
+      },
+      {
+        "text": "05a)Define thefollowing:",
+        "score": 0.958
+      },
+      {
+        "text": "i)Multi-Graphi)DegreeofDirectedGraphii)Weighted Graph",
+        "score": 0.953
+      },
+      {
+        "text": "b）",
+        "score": 0.742
+      },
+      {
+        "text": "The following is the adjacencymatrixAofanundirectedgraph G.Drawthe graph Gand",
+        "score": 0.947
+      },
+      {
+        "text": "3+3=6",
+        "score": 0.993
+      },
+      {
+        "text": "find itsincidencematrixM.",
+        "score": 0.967
+      },
+      {
+        "text": "0",
+        "score": 0.996
+      },
+      {
+        "text": "D",
+        "score": 0.615
+      },
+      {
+        "text": "c)Explain the process howanodecanbe deletedfroma graph.",
+        "score": 0.949
+      },
+      {
+        "text": "6.33",
+        "score": 0.997
+      },
+      {
+        "text": "d",
+        "score": 0.969
+      },
+      {
+        "text": "Write down theBreadth-FirstSearchAlgorithm thatexecutes onagraph Gbeginning ata",
+        "score": 0.955
+      },
+      {
+        "text": "5",
+        "score": 0.999
+      },
+      {
+        "text": "startingnodeA.",
+        "score": 0.98
+      },
+      {
+        "text": "ScannedwithCamScanner",
+        "score": 0.993
+      }
+    ]
+  ],
+  "cse-303-data-structure-2021": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.951
+      },
+      {
+        "text": "Amliated Engineering Colloges",
+        "score": 0.951
+      },
+      {
+        "text": "B.Sc.in Computer Science &Engineering",
+        "score": 0.959
+      },
+      {
+        "text": "2ndYear1SemesterFinal Examination-2021",
+        "score": 0.966
+      },
+      {
+        "text": "CSE 2101(Data Struetures and Algorithms)",
+        "score": 0.928
+      },
+      {
+        "text": "Time:3.00 Hours",
+        "score": 0.956
+      },
+      {
+        "text": "[Answer any Five questions]",
+        "score": 0.977
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.982
+      },
+      {
+        "text": "a)",
+        "score": 0.805
+      },
+      {
+        "text": "What isAbstract Data Type?DefineDataStructure.",
+        "score": 0.963
+      },
+      {
+        "text": "b)",
+        "score": 0.817
+      },
+      {
+        "text": "Briefly describe complexity andspace-time tradeoff of algorithms?",
+        "score": 0.945
+      },
+      {
+        "text": "6",
+        "score": 0.997
+      },
+      {
+        "text": "How to represent linear array in memory.",
+        "score": 0.957
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "2.",
+        "score": 0.983
+      },
+      {
+        "text": "a)",
+        "score": 0.896
+      },
+      {
+        "text": "Why algorithm analysis is important?",
+        "score": 0.968
+      },
+      {
+        "text": "b)",
+        "score": 0.819
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "c)",
+        "score": 0.683
+      },
+      {
+        "text": "Analyze the complexity of linear andbinary search algorithm.",
+        "score": 0.954
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "d)",
+        "score": 0.835
+      },
+      {
+        "text": "What are the differencesbetween array and linked list?",
+        "score": 0.952
+      },
+      {
+        "text": "5",
+        "score": 0.92
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "3.a)Simulate the pre-order and in-order tree traversal of the following tree",
+        "score": 0.946
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.827
+      },
+      {
+        "text": "Illustrate similar and copies of a treewith example?",
+        "score": 0.921
+      },
+      {
+        "text": "c)",
+        "score": 0.732
+      },
+      {
+        "text": "Write an algorithm to traverse a linked list?",
+        "score": 0.942
+      },
+      {
+        "text": "3",
+        "score": 0.948
+      },
+      {
+        "text": "d)",
+        "score": 0.759
+      },
+      {
+        "text": "Define overflow,underflow and garbage collection?",
+        "score": 0.956
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "4.a) Let n denote a positive integer.Suppose a function Lis defined recursively as follows:",
+        "score": 0.944
+      },
+      {
+        "text": "So",
+        "score": 0.527
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "ifn=1",
+        "score": 0.982
+      },
+      {
+        "text": "ifn>1",
+        "score": 0.922
+      },
+      {
+        "text": "What does the function do?",
+        "score": 0.906
+      },
+      {
+        "text": "b)",
+        "score": 0.856
+      },
+      {
+        "text": "Illustrate stackPOPandPUSH operation.",
+        "score": 0.95
+      },
+      {
+        "text": "?",
+        "score": 0.622
+      },
+      {
+        "text": "Write down the two mandatory properties of a recursive function?Define Queues and",
+        "score": 0.956
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "Deques.",
+        "score": 0.973
+      },
+      {
+        "text": "4",
+        "score": 1.0
+      },
+      {
+        "text": "5.",
+        "score": 0.983
+      },
+      {
+        "text": "a)",
+        "score": 0.884
+      },
+      {
+        "text": "What isTraversing?What are the different types of traversing?",
+        "score": 0.961
+      },
+      {
+        "text": "b)",
+        "score": 0.881
+      },
+      {
+        "text": "Construct a Binary tree for the expression[（a +b*c)]-[（d·e+ f/(g-h)].What will be the",
+        "score": 0.897
+      },
+      {
+        "text": "2+2",
+        "score": 0.996
+      },
+      {
+        "text": "outputs for Pre order andPost order of this expression?.",
+        "score": 0.963
+      },
+      {
+        "text": "6",
+        "score": 0.997
+      },
+      {
+        "text": "c)",
+        "score": 0.506
+      },
+      {
+        "text": "Write an Algorithm to Insert an element in a sorted Heap.",
+        "score": 0.938
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "6.",
+        "score": 0.98
+      },
+      {
+        "text": "a",
+        "score": 0.809
+      },
+      {
+        "text": "Write down the complexityofQuickSort,BubbleSort,LinearSearchandBinarySearch",
+        "score": 0.943
+      },
+      {
+        "text": "Algorithm.",
+        "score": 0.984
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.808
+      },
+      {
+        "text": "Supposeyou have anArrayoffollowingelements:44,22,77,33,99,11,66,55",
+        "score": 0.876
+      },
+      {
+        "text": "Explain the technique for SelectionSort from above elements.",
+        "score": 0.954
+      },
+      {
+        "text": "6",
+        "score": 0.999
+      },
+      {
+        "text": "?",
+        "score": 0.574
+      },
+      {
+        "text": "Write an algorithm for InsertionSort.",
+        "score": 0.92
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "7.",
+        "score": 0.964
+      },
+      {
+        "text": "a)",
+        "score": 0.886
+      },
+      {
+        "text": "Distinguish between Linear and Non LinearData Structure.",
+        "score": 0.95
+      },
+      {
+        "text": "b)",
+        "score": 0.84
+      },
+      {
+        "text": "What is the condition fora CompleteBinary Tree?Draw a complete Binary Tree for the",
+        "score": 0.952
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "elemntso1,2,4,,67,8,9,10,11,12,13,14,15,16,17,18,19.",
+        "score": 0.698
+      },
+      {
+        "text": "1+3",
+        "score": 0.992
+      },
+      {
+        "text": "Explain the technique forMergeSort Algorithm with example.",
+        "score": 0.955
+      },
+      {
+        "text": "d",
+        "score": 0.968
+      },
+      {
+        "text": "DrawMaxHeapand Mean HeapTreefrom the following clements:",
+        "score": 0.941
+      },
+      {
+        "text": "4",
+        "score": 1.0
+      },
+      {
+        "text": "50,20,70,40,30,60,90,80.",
+        "score": 0.875
+      }
+    ]
+  ],
+  "cse-303-data-structure-2022": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.94
+      },
+      {
+        "text": "Affiliated Engineering Colleges",
+        "score": 0.954
+      },
+      {
+        "text": "Department of Computer Science and Engineering",
+        "score": 0.959
+      },
+      {
+        "text": "2dYear 1Semester B.Sc.in CSE Final Examination,2022",
+        "score": 0.92
+      },
+      {
+        "text": "CSE-2101:DataStructures andAlgorithms",
+        "score": 0.979
+      },
+      {
+        "text": "Total Marks:70",
+        "score": 0.971
+      },
+      {
+        "text": "Time:3Hours",
+        "score": 0.98
+      },
+      {
+        "text": "Answer any 5(Five)of the followingQuestions:",
+        "score": 0.954
+      },
+      {
+        "text": "a)",
+        "score": 0.975
+      },
+      {
+        "text": "（a)Write down the characteristics of Huffman coding.What isprefix rule？Explain with",
+        "score": 0.936
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "example.",
+        "score": 0.991
+      },
+      {
+        "text": "b)",
+        "score": 0.913
+      },
+      {
+        "text": "A filecontains thefollowing characterswith thefrequencies as shown.Find theHuffman",
+        "score": 0.957
+      },
+      {
+        "text": "Codeforeachcharacterprove that Huffman coding compresses thedata set successfully.",
+        "score": 0.935
+      },
+      {
+        "text": "Characters",
+        "score": 0.986
+      },
+      {
+        "text": "Frequencies",
+        "score": 0.988
+      },
+      {
+        "text": "a",
+        "score": 0.967
+      },
+      {
+        "text": "10",
+        "score": 0.998
+      },
+      {
+        "text": "e",
+        "score": 0.985
+      },
+      {
+        "text": "15",
+        "score": 0.996
+      },
+      {
+        "text": "i",
+        "score": 0.902
+      },
+      {
+        "text": "12",
+        "score": 0.996
+      },
+      {
+        "text": "0",
+        "score": 0.655
+      },
+      {
+        "text": "3",
+        "score": 0.997
+      },
+      {
+        "text": "u",
+        "score": 0.725
+      },
+      {
+        "text": "4",
+        "score": 0.996
+      },
+      {
+        "text": "S",
+        "score": 0.602
+      },
+      {
+        "text": "13",
+        "score": 0.998
+      },
+      {
+        "text": "t",
+        "score": 0.986
+      },
+      {
+        "text": "1",
+        "score": 0.99
+      },
+      {
+        "text": "C)",
+        "score": 0.648
+      },
+      {
+        "text": "Whatispriorityqueue?Explain two types of priorityQueue.Write down the application",
+        "score": 0.932
+      },
+      {
+        "text": "ofPriorityQueue.",
+        "score": 0.988
+      },
+      {
+        "text": "a)",
+        "score": 0.968
+      },
+      {
+        "text": "Explain theDrawbackof arrayinplementation of queue anddiscuss about its solution",
+        "score": 0.94
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.884
+      },
+      {
+        "text": "Show theDFS traverse output steps of the following graph (starting node 1).",
+        "score": 0.947
+      },
+      {
+        "text": "5",
+        "score": 0.574
+      },
+      {
+        "text": "Show all thesteps toevaluate thefollowingpostfix expression usingpostfix expression",
+        "score": 0.952
+      },
+      {
+        "text": "evaluationalgorithm:123*+321-+*",
+        "score": 0.974
+      },
+      {
+        "text": "List the application of tree.",
+        "score": 0.961
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "3.",
+        "score": 0.944
+      },
+      {
+        "text": "a)",
+        "score": 0.922
+      },
+      {
+        "text": "Write down the basicoperationsof linklist.When doubly linked list can berepresented as",
+        "score": 0.944
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "circular linked list?",
+        "score": 0.943
+      },
+      {
+        "text": "b)",
+        "score": 0.814
+      },
+      {
+        "text": "Discuss a single link list.Write an algorithm to insert an item at the beginning of the list",
+        "score": 0.948
+      },
+      {
+        "text": "5",
+        "score": 0.997
+      },
+      {
+        "text": "after a given node and at the end of the list.",
+        "score": 0.932
+      },
+      {
+        "text": "Mention themajor drawback of doubly link list.Explain a step-by-step process for",
+        "score": 0.951
+      },
+      {
+        "text": "5",
+        "score": 0.984
+      },
+      {
+        "text": "searching anitemwithin an unsorted linkedlist.",
+        "score": 0.95
+      },
+      {
+        "text": "a)",
+        "score": 0.93
+      },
+      {
+        "text": "What are thepostfixandprefixforms oftheexpression",
+        "score": 0.962
+      },
+      {
+        "text": "given below",
+        "score": 0.968
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "A+B*(C-D)/(P-R).",
+        "score": 0.938
+      },
+      {
+        "text": "b)",
+        "score": 0.871
+      },
+      {
+        "text": "Prove that the depth D of a complete binary treewith n nodes is given by D=[log2n+1],",
+        "score": 0.931
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "where[.]is thefloor function.",
+        "score": 0.952
+      },
+      {
+        "text": "All trees are Graphs,but all graphs arenot trees.Explain this statement with example.",
+        "score": 0.948
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "d)",
+        "score": 0.906
+      },
+      {
+        "text": "What is the differences between DFS andBFS?",
+        "score": 0.923
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "5.",
+        "score": 0.898
+      },
+      {
+        "text": "a)",
+        "score": 0.961
+      },
+      {
+        "text": "What do youmean by Tree?What are the steps to convert a general tree into a binary tree?",
+        "score": 0.944
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "(q",
+        "score": 0.888
+      },
+      {
+        "text": "Define Full Binary Tree. Generate theTree for the following sequence:",
+        "score": 0.945
+      },
+      {
+        "text": "5",
+        "score": 0.996
+      },
+      {
+        "text": "Postrder:F,A,E,K,C,D,H,G,B",
+        "score": 0.841
+      },
+      {
+        "text": "Inorder:E,A,C,K,F,H,D,B,G",
+        "score": 0.848
+      },
+      {
+        "text": "What isHeap data structure?Build theMax-Heap andMin-Heapfrom the following listof",
+        "score": 0.926
+      },
+      {
+        "text": "5",
+        "score": 0.986
+      },
+      {
+        "text": "C)",
+        "score": 0.787
+      },
+      {
+        "text": "number:44,30,50,22,60,55,77,5,89,19",
+        "score": 0.763
+      },
+      {
+        "text": "Write down theAlgorithm of insert operation in themax heap.",
+        "score": 0.95
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "a)",
+        "score": 0.961
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.884
+      },
+      {
+        "text": "If set A contains 13 elements, set B contains &elements and the intersection of these two",
+        "score": 0.903
+      },
+      {
+        "text": "sets contains 5 elements,then find the number of elements inA union B.",
+        "score": 0.926
+      },
+      {
+        "text": "4",
+        "score": 1.0
+      },
+      {
+        "text": "C)",
+        "score": 0.608
+      },
+      {
+        "text": "Briefly explain asymptotic notation.",
+        "score": 0.967
+      },
+      {
+        "text": "Aret =9}and s=911dis jusifun",
+        "score": 0.636
+      },
+      {
+        "text": "d)",
+        "score": 0.801
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "a)",
+        "score": 0.955
+      },
+      {
+        "text": "Define Sorting.Write down thepseudocode of the Selection sort algorithm.",
+        "score": 0.943
+      },
+      {
+        "text": "5",
+        "score": 0.994
+      },
+      {
+        "text": "b",
+        "score": 0.944
+      },
+      {
+        "text": "Compare Searching and Sorting.Describe the working procedure of Binary Search algorithm for",
+        "score": 0.965
+      },
+      {
+        "text": "the following data where the key value is33.",
+        "score": 0.938
+      },
+      {
+        "text": "10,14,19,26,27,31,33,35,42,44",
+        "score": 0.908
+      },
+      {
+        "text": "What is insertion sort?Howmany passes are required for the elements to be sorted?",
+        "score": 0.934
+      }
+    ]
+  ],
+  "cse-401-dsa-2020": [
+    [
+      {
+        "text": "Seson2018-19）",
+        "score": 0.691
+      },
+      {
+        "text": "urqehy-along",
+        "score": 0.585
+      },
+      {
+        "text": "Subject code.Csf-401",
+        "score": 0.72
+      },
+      {
+        "text": "Markx:70",
+        "score": 0.928
+      },
+      {
+        "text": "Answer any five questian",
+        "score": 0.757
+      },
+      {
+        "text": "1",
+        "score": 0.694
+      },
+      {
+        "text": "a)Wt BackckinWritedowThenel sp hkt",
+        "score": 0.648
+      },
+      {
+        "text": "b)Wtie dohe Chactetis of Huffpan Coding",
+        "score": 0.724
+      },
+      {
+        "text": "DSix Haminian cycle from theGraph wich ie be",
+        "score": 0.752
+      },
+      {
+        "text": "DefiredyodWdowtebfodyph",
+        "score": 0.668
+      },
+      {
+        "text": "(mnme root isI):",
+        "score": 0.721
+      },
+      {
+        "text": "1",
+        "score": 0.74
+      },
+      {
+        "text": "Write greedy algorithn for sngle sutcehertet path problemilasod on thi slrim",
+        "score": 0.749
+      },
+      {
+        "text": "source shontestpith for the-following gph",
+        "score": 0.842
+      },
+      {
+        "text": "a)Consider thefollowing9activities jth theit stanig and finshing time",
+        "score": 0.786
+      },
+      {
+        "text": "Actty(AAAAA,AAAA9)",
+        "score": 0.796
+      },
+      {
+        "text": "Copte a schedle aher the gatc er factiities te place UgAtivityelnti",
+        "score": 0.678
+      },
+      {
+        "text": "Write down he Reaf-lifeAppliction ofAtivity Selectio Proble",
+        "score": 0.709
+      },
+      {
+        "text": "WridowntheGREEDYACTIVITYSELECTORAlrhm",
+        "score": 0.809
+      },
+      {
+        "text": "Defin andcplaini DAG i） ndegree oideg",
+        "score": 0.681
+      },
+      {
+        "text": "Whatis pamllel algorithm?Eplain Ehynn'sClasifeati",
+        "score": 0.796
+      },
+      {
+        "text": "Write donan the eps of lnterpolatice",
+        "score": 0.752
+      },
+      {
+        "text": "Wite dotepoe ofGpong ble",
+        "score": 0.702
+      }
+    ]
+  ],
+  "cse-401-dsa-2023": [
+    [
+      {
+        "text": "University'ofDhakn",
+        "score": 0.943
+      },
+      {
+        "text": "AffiliatedEngineering College",
+        "score": 0.942
+      },
+      {
+        "text": "DepartmentofComputerScienceand Engineering",
+        "score": 0.976
+      },
+      {
+        "text": "2dYear1\"SemesterFinalExainination-2023",
+        "score": 0.95
+      },
+      {
+        "text": "CourseCode:CSE2101",
+        "score": 0.985
+      },
+      {
+        "text": "CourseTitle:Data Structures and Algorithms",
+        "score": 0.943
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.985
+      },
+      {
+        "text": "Time:3hours",
+        "score": 0.979
+      },
+      {
+        "text": "[AnsweranyFive Questions]",
+        "score": 0.974
+      },
+      {
+        "text": "[4]",
+        "score": 0.921
+      },
+      {
+        "text": "1.a)Define andclassify data structure.Explain the basic operation performed on data",
+        "score": 0.941
+      },
+      {
+        "text": "structure.",
+        "score": 0.992
+      },
+      {
+        "text": "[4]",
+        "score": 0.874
+      },
+      {
+        "text": "b）",
+        "score": 0.807
+      },
+      {
+        "text": "Briefly explain asymptotic notation.",
+        "score": 0.958
+      },
+      {
+        "text": "[4]",
+        "score": 0.922
+      },
+      {
+        "text": "c)",
+        "score": 0.578
+      },
+      {
+        "text": "Using the Bubble sort algorithm find the numberofcomparison andnumber of",
+        "score": 0.947
+      },
+      {
+        "text": "interchangestosortPEOPLEalphabetically.",
+        "score": 0.982
+      },
+      {
+        "text": "[2]",
+        "score": 0.994
+      },
+      {
+        "text": "d)Write down thecomplexityoffollowing algorithms:",
+        "score": 0.952
+      },
+      {
+        "text": "Mergesort",
+        "score": 0.979
+      },
+      {
+        "text": "ii.",
+        "score": 0.935
+      },
+      {
+        "text": "Binary Search",
+        "score": 0.959
+      },
+      {
+        "text": "i.",
+        "score": 0.555
+      },
+      {
+        "text": "SelectionSort",
+        "score": 0.989
+      },
+      {
+        "text": "iv.",
+        "score": 0.985
+      },
+      {
+        "text": "Radixsort",
+        "score": 0.99
+      },
+      {
+        "text": "[6]",
+        "score": 0.987
+      },
+      {
+        "text": "2.a)Consider the followingDequeue of characterswhereDequeue isa circular array",
+        "score": 0.955
+      },
+      {
+        "text": "which is allocated sixmemory cellFront=2andRear4",
+        "score": 0.944
+      },
+      {
+        "text": "Dequeue:_,A,C,D，",
+        "score": 0.845
+      },
+      {
+        "text": "DescribetheDequeuewhile thefollowingoperationtakeplace",
+        "score": 0.974
+      },
+      {
+        "text": "i)F is added.",
+        "score": 0.916
+      },
+      {
+        "text": "i)Two letters aredeletedfrom thefront.",
+        "score": 0.962
+      },
+      {
+        "text": "ii)K,L andM are added.",
+        "score": 0.872
+      },
+      {
+        "text": "[5]",
+        "score": 0.983
+      },
+      {
+        "text": "b)What properties are mandatory tohaveforarecursiveprocedure?Show therecursive",
+        "score": 0.957
+      },
+      {
+        "text": "solutionofTowerofHanoimethodfordisk4usingaschematicdiagram.",
+        "score": 0.986
+      },
+      {
+        "text": "[3]",
+        "score": 0.985
+      },
+      {
+        "text": ")What aregarbage collection,overflow and underflow？",
+        "score": 0.944
+      },
+      {
+        "text": "[5]",
+        "score": 0.974
+      },
+      {
+        "text": "3.a)What islinked list?Explaindifferent types of linkedlist with pictorialview.",
+        "score": 0.932
+      },
+      {
+        "text": "[3]",
+        "score": 0.873
+      },
+      {
+        "text": "b）",
+        "score": 0.72
+      },
+      {
+        "text": "What are thebenefits of usinglinked·list over array?",
+        "score": 0.919
+      },
+      {
+        "text": "[6]",
+        "score": 0.974
+      },
+      {
+        "text": "c)",
+        "score": 0.635
+      },
+      {
+        "text": "Writean algorithm toperformthefollowingoperations:",
+        "score": 0.971
+      },
+      {
+        "text": "i)Searchinganodefroma linked list",
+        "score": 0.951
+      },
+      {
+        "text": "i)Createa Circular linked list",
+        "score": 0.94
+      },
+      {
+        "text": "[4]",
+        "score": 0.967
+      },
+      {
+        "text": "[5]",
+        "score": 0.926
+      },
+      {
+        "text": "b)",
+        "score": 0.771
+      },
+      {
+        "text": "Showthesuccessivestepsforfinding40and100from thefollowinglistofelements",
+        "score": 0.979
+      },
+      {
+        "text": "usingbinary searchalgorithm:11,22,30,33,40,44,55,60,66,77,80,99.",
+        "score": 0.88
+      },
+      {
+        "text": "[5]",
+        "score": 0.942
+      },
+      {
+        "text": "ConstructaBinarySearchTree(BST)for thefollowing sequence of numbers-",
+        "score": 0.959
+      },
+      {
+        "text": "50,70,60,20,90,10,40,100",
+        "score": 0.956
+      },
+      {
+        "text": "[4]",
+        "score": 0.979
+      },
+      {
+        "text": "stepby stepof thefollowinggraph.(startingnodeA)",
+        "score": 0.962
+      },
+      {
+        "text": "(M",
+        "score": 0.749
+      },
+      {
+        "text": "[3]",
+        "score": 0.989
+      },
+      {
+        "text": "b)Show the DFS traverse output steps of the following graph.(Starting node 1).",
+        "score": 0.924
+      }
+    ],
+    [
+      {
+        "text": "c)A binary node Thas 9nodes.T inorder and preorder traversalsof Tyield the[4]",
+        "score": 0.93
+      },
+      {
+        "text": "following sequences of nodes.Draw the diagram of theTree:",
+        "score": 0.921
+      },
+      {
+        "text": "Inorder:MNOPQRSTU",
+        "score": 0.968
+      },
+      {
+        "text": "Preorder:QNMPOSRUT",
+        "score": 0.95
+      },
+      {
+        "text": "d)Prove that a graph withn connected nodes having (n-1) links can be treated asTree.",
+        "score": 0.91
+      },
+      {
+        "text": "[3]",
+        "score": 0.97
+      },
+      {
+        "text": "6.a)Construct an expression tree for the expression(a+b*c）+（（d*e+1)*g）.Give the",
+        "score": 0.909
+      },
+      {
+        "text": "[s]",
+        "score": 0.759
+      },
+      {
+        "text": "outputswhenyou applypreorder,inorder andpostorder traversals",
+        "score": 0.953
+      },
+      {
+        "text": "b)",
+        "score": 0.71
+      },
+      {
+        "text": "Writedown thecharacteristicsofHuffmancoding.Whatisprefixrule?Explainwith",
+        "score": 0.924
+      },
+      {
+        "text": "[4]",
+        "score": 0.931
+      },
+      {
+        "text": "example.",
+        "score": 0.988
+      },
+      {
+        "text": "c)A file contains the following characters with the frequencies as shown.Find the",
+        "score": 0.942
+      },
+      {
+        "text": "[5]",
+        "score": 0.949
+      },
+      {
+        "text": "HuffmanCodeforeachcharacterprove thatHuffmancodingcompresses the data set",
+        "score": 0.951
+      },
+      {
+        "text": "successfully.",
+        "score": 0.975
+      },
+      {
+        "text": "Characters",
+        "score": 0.988
+      },
+      {
+        "text": "Frequencies",
+        "score": 0.989
+      },
+      {
+        "text": "a",
+        "score": 0.939
+      },
+      {
+        "text": "10",
+        "score": 0.993
+      },
+      {
+        "text": "e",
+        "score": 0.717
+      },
+      {
+        "text": "15",
+        "score": 0.987
+      },
+      {
+        "text": "i",
+        "score": 0.834
+      },
+      {
+        "text": "12",
+        "score": 0.987
+      },
+      {
+        "text": "3",
+        "score": 0.964
+      },
+      {
+        "text": "u",
+        "score": 0.985
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "S",
+        "score": 0.645
+      },
+      {
+        "text": "13",
+        "score": 0.993
+      },
+      {
+        "text": "7.a)Define Heap.Write down thepropertiesof max-heap andmin-heap.",
+        "score": 0.96
+      },
+      {
+        "text": "[3]",
+        "score": 0.976
+      },
+      {
+        "text": "b)ConstructaMax-heapfrom thefollowinglistofnumbers:",
+        "score": 0.975
+      },
+      {
+        "text": "[6]",
+        "score": 0.978
+      },
+      {
+        "text": "34,30,40,22,50,2,77,55",
+        "score": 0.951
+      },
+      {
+        "text": "i)Insert70intothemax-heap",
+        "score": 0.967
+      },
+      {
+        "text": "i)Delete20",
+        "score": 0.92
+      },
+      {
+        "text": "Showall thenecessarysteps.",
+        "score": 0.97
+      },
+      {
+        "text": "IfsetAcontains13elements,setBcontainsSelements and the intersectionof these",
+        "score": 0.944
+      },
+      {
+        "text": "[3]",
+        "score": 0.989
+      },
+      {
+        "text": "twosetscontains5elements,thenfind thenumberofelements inAunionB.",
+        "score": 0.954
+      },
+      {
+        "text": "d)Show that set A={2.5,6}andset B={4.7,8}are disjoint sets.",
+        "score": 0.922
+      },
+      {
+        "text": "[2]",
+        "score": 0.973
+      }
+    ]
+  ],
+  "cse-403-digital-electronics-2020": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.854
+      },
+      {
+        "text": "Afflated ngineerng coles",
+        "score": 0.567
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.978
+      },
+      {
+        "text": "Subject code:C5E-403",
+        "score": 0.879
+      },
+      {
+        "text": "Tme:3.00 Hours",
+        "score": 0.899
+      },
+      {
+        "text": "What is diode Implemen NORgateby diode",
+        "score": 0.837
+      },
+      {
+        "text": "b)Show that Trasistor cts as a switch",
+        "score": 0.813
+      },
+      {
+        "text": "c)Describe ExclusiveNORgte by transior",
+        "score": 0.848
+      },
+      {
+        "text": "alWhat do mean by LED and LCD",
+        "score": 0.888
+      },
+      {
+        "text": "b）EanSsO",
+        "score": 0.618
+      },
+      {
+        "text": "c)Describe Amalog to digital Converter circuit",
+        "score": 0.862
+      },
+      {
+        "text": "a）Whatis PLAExplain block dgramofPA crcit",
+        "score": 0.731
+      },
+      {
+        "text": "b)Descrbe he pulse tansfoer cicuitndiquivalentcircui",
+        "score": 0.707
+      },
+      {
+        "text": "c)Epln pue tansiwithnptanoutput wafo n different mo",
+        "score": 0.71
+      },
+      {
+        "text": "What doyou mean by fip lopEplainopeatingprincipe of -Kfipfop.",
+        "score": 0.735
+      },
+      {
+        "text": "Draw&cxplain BCD rippie counter",
+        "score": 0.895
+      },
+      {
+        "text": "What is the difference betwen a ctialand parallel an",
+        "score": 0.823
+      },
+      {
+        "text": "Explain operating peinciple of 3-bitegistet",
+        "score": 0.868
+      },
+      {
+        "text": "al",
+        "score": 0.727
+      },
+      {
+        "text": "What doyou meun by AD &DA conveten?",
+        "score": 0.864
+      },
+      {
+        "text": "Draw thnistoTgcitadexplaitwknrde",
+        "score": 0.661
+      },
+      {
+        "text": "Explan opeatingprncipleof comatrcct",
+        "score": 0.734
+      },
+      {
+        "text": "c)",
+        "score": 0.803
+      },
+      {
+        "text": "d)",
+        "score": 0.587
+      },
+      {
+        "text": "6.",
+        "score": 0.87
+      },
+      {
+        "text": "(q",
+        "score": 0.545
+      },
+      {
+        "text": "c)",
+        "score": 0.73
+      },
+      {
+        "text": "dy",
+        "score": 0.922
+      },
+      {
+        "text": "Write down application of clippers circuit",
+        "score": 0.857
+      },
+      {
+        "text": "7.a)What do you mean by muivirato?",
+        "score": 0.856
+      },
+      {
+        "text": "Expnopengpricifal",
+        "score": 0.646
+      },
+      {
+        "text": "q",
+        "score": 0.765
+      },
+      {
+        "text": "Write dowpltnfmnostlevb",
+        "score": 0.671
+      },
+      {
+        "text": "(P",
+        "score": 0.71
+      }
+    ]
+  ],
+  "cse-403-digital-electronics-2021": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.978
+      },
+      {
+        "text": "Affliated Engineering Colleges",
+        "score": 0.945
+      },
+      {
+        "text": "B.Sc.in Computer Science &Engineering",
+        "score": 0.969
+      },
+      {
+        "text": "2ndYear 1\" Semester Final Examination-2021",
+        "score": 0.927
+      },
+      {
+        "text": "CSE 2103(Digital Electronics &PulseTechnique)",
+        "score": 0.947
+      },
+      {
+        "text": "Time:3.00 Hours",
+        "score": 0.955
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.976
+      },
+      {
+        "text": "[Answer anyFive questions]",
+        "score": 0.975
+      },
+      {
+        "text": "1.a) What is Switch? Draw a two-input NAND and NOR gate circuit using diode.",
+        "score": 0.953
+      },
+      {
+        "text": "b) Define Transistor.“Diode can be used as a switch”\"- show graphically with characteristic",
+        "score": 0.95
+      },
+      {
+        "text": "6",
+        "score": 0.999
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "curve.",
+        "score": 0.993
+      },
+      {
+        "text": "c)Explain RTL basic circuits.",
+        "score": 0.954
+      },
+      {
+        "text": "4",
+        "score": 1.0
+      },
+      {
+        "text": "2.a) Explain classification of logic family.",
+        "score": 0.943
+      },
+      {
+        "text": "3",
+        "score": 0.993
+      },
+      {
+        "text": "b)",
+        "score": 0.838
+      },
+      {
+        "text": "Draw the Transistor Transistor Logic (TTL) circuit and explain working procedure.",
+        "score": 0.969
+      },
+      {
+        "text": "5",
+        "score": 0.879
+      },
+      {
+        "text": "C)",
+        "score": 0.626
+      },
+      {
+        "text": "What is pulse transformer?Write thefunctions of pulse transformer.",
+        "score": 0.951
+      },
+      {
+        "text": "6",
+        "score": 0.985
+      },
+      {
+        "text": "3.a)",
+        "score": 0.871
+      },
+      {
+        "text": "What do mean by LED andLCD?",
+        "score": 0.91
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "b)",
+        "score": 0.873
+      },
+      {
+        "text": "Explain Sample and Hold (S/H) circuit by using Operational Amplifier.",
+        "score": 0.943
+      },
+      {
+        "text": "55",
+        "score": 0.987
+      },
+      {
+        "text": "DescribeAnalog to digital Converter circuit.",
+        "score": 0.968
+      },
+      {
+        "text": "4.",
+        "score": 0.958
+      },
+      {
+        "text": "a)",
+        "score": 0.902
+      },
+      {
+        "text": "Write short Note on-i) Propagation delay i) Noise margin",
+        "score": 0.945
+      },
+      {
+        "text": "4",
+        "score": 0.925
+      },
+      {
+        "text": "b)",
+        "score": 0.906
+      },
+      {
+        "text": "Define filtering.Why filtering needed in linearwave shaping?",
+        "score": 0.955
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "Explain high pass filter circuit with proper diagrams.",
+        "score": 0.942
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "d",
+        "score": 0.967
+      },
+      {
+        "text": "Sketch the frequency response of low pass filter.",
+        "score": 0.956
+      },
+      {
+        "text": "2",
+        "score": 0.998
+      },
+      {
+        "text": "a)",
+        "score": 0.899
+      },
+      {
+        "text": "Define clipper and clamper circuits.Write down the applications of clipping circuit.",
+        "score": 0.937
+      },
+      {
+        "text": "b)",
+        "score": 0.819
+      },
+      {
+        "text": "Define free running multivibrator. Describe the working principles of positive clipping",
+        "score": 0.963
+      },
+      {
+        "text": "5",
+        "score": 0.761
+      },
+      {
+        "text": "circuit with proper diagrams.",
+        "score": 0.95
+      },
+      {
+        "text": "Differentiate between negative diode clipping and negative biased diode clipping circuits",
+        "score": 0.968
+      },
+      {
+        "text": "4",
+        "score": 1.0
+      },
+      {
+        "text": "with figures.",
+        "score": 0.973
+      },
+      {
+        "text": "6.",
+        "score": 0.987
+      },
+      {
+        "text": "a)",
+        "score": 0.872
+      },
+      {
+        "text": "Draw theblock diagram ofaD/A converter andexplainitsoperation.",
+        "score": 0.958
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.881
+      },
+      {
+        "text": "Mention theprocess of triggering ofabistable multivibrator with proper diagram.",
+        "score": 0.958
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "?",
+        "score": 0.56
+      },
+      {
+        "text": "Define PLA's working principles. Write down the applications of S/H circuits.",
+        "score": 0.945
+      },
+      {
+        "text": "What is Cache Memory?Differentiate between primary and secondary memory.",
+        "score": 0.944
+      },
+      {
+        "text": "a)",
+        "score": 0.896
+      },
+      {
+        "text": "b)",
+        "score": 0.901
+      },
+      {
+        "text": "Explain pulse generator block diagram with equivalent circuit.",
+        "score": 0.957
+      },
+      {
+        "text": "5",
+        "score": 0.931
+      },
+      {
+        "text": "What isOPAMP.WhyOP-AMPisa differential,voltage amplifierwith high gain？",
+        "score": 0.872
+      },
+      {
+        "text": "5",
+        "score": 0.79
+      }
+    ]
+  ],
+  "cse-403-digital-electronics-2022": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.96
+      },
+      {
+        "text": "Affiliated Engineering Colleges",
+        "score": 0.948
+      },
+      {
+        "text": "Department of Computer Science and Engineering",
+        "score": 0.963
+      },
+      {
+        "text": "2dYear 1 Semester B.Sc.in CSE Final Examination, 2022",
+        "score": 0.926
+      },
+      {
+        "text": "Course Code:CSE-2103",
+        "score": 0.965
+      },
+      {
+        "text": "Course Name:Digital Electronics &Pulse Technique",
+        "score": 0.955
+      },
+      {
+        "text": "Time:3Hours",
+        "score": 0.981
+      },
+      {
+        "text": "TotalMarks:70",
+        "score": 0.981
+      },
+      {
+        "text": "Answer any 5(Five)of the followingQuestions",
+        "score": 0.941
+      },
+      {
+        "text": "2+3",
+        "score": 0.914
+      },
+      {
+        "text": "a)Define leakage current andKnee voltagemlment universal gatebydide.",
+        "score": 0.909
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "Show that Transistor acts as a switch.",
+        "score": 0.961
+      },
+      {
+        "text": "5",
+        "score": 0.992
+      },
+      {
+        "text": "Implement ExclusiveNORgateby transistor.",
+        "score": 0.961
+      },
+      {
+        "text": "3+3",
+        "score": 0.989
+      },
+      {
+        "text": "a)",
+        "score": 0.952
+      },
+      {
+        "text": "Describe Bipolar logic family;ExplainNOR gate using TTL",
+        "score": 0.947
+      },
+      {
+        "text": "2+3",
+        "score": 0.997
+      },
+      {
+        "text": "b）",
+        "score": 0.777
+      },
+      {
+        "text": "Define Digital IC;Describe the Implementation of NAND gate using RTL",
+        "score": 0.95
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "c)Describe the implementation of NAND gate using DTL",
+        "score": 0.935
+      },
+      {
+        "text": "What is counter modulus?Design a 4bit synchronous counter circuit with counting",
+        "score": 0.955
+      },
+      {
+        "text": "5",
+        "score": 0.867
+      },
+      {
+        "text": "3.",
+        "score": 0.907
+      },
+      {
+        "text": "a)",
+        "score": 0.96
+      },
+      {
+        "text": "sequence.",
+        "score": 0.989
+      },
+      {
+        "text": "2+3",
+        "score": 0.997
+      },
+      {
+        "text": "b)",
+        "score": 0.909
+      },
+      {
+        "text": "Differentiate between latches and flipflop.DescribeClockedSRflip-flop.",
+        "score": 0.962
+      },
+      {
+        "text": "ImplementRight shift register circuit withworkingprocedure.",
+        "score": 0.966
+      },
+      {
+        "text": "4",
+        "score": 1.0
+      },
+      {
+        "text": "a)Prove that,Transistorworks asa switch",
+        "score": 0.946
+      },
+      {
+        "text": "b)",
+        "score": 0.752
+      },
+      {
+        "text": "Draw the internal circuit diagram of 555 timer circuit and describe thefunctionality of",
+        "score": 0.95
+      },
+      {
+        "text": "5",
+        "score": 0.973
+      },
+      {
+        "text": "each pin.",
+        "score": 0.955
+      },
+      {
+        "text": "Mention the difference between Clipping and Clamping circuit with example.",
+        "score": 0.961
+      },
+      {
+        "text": "5",
+        "score": 0.986
+      },
+      {
+        "text": "What isPLA?Implement thecircuitwithPLA having thefollowingfunctions:",
+        "score": 0.954
+      },
+      {
+        "text": "5",
+        "score": 0.839
+      },
+      {
+        "text": "F1(A,B,C)=∑(3,5,6,7)",
+        "score": 0.849
+      },
+      {
+        "text": "F2(A,B,C)=∑(0,2,4,7)",
+        "score": 0.825
+      },
+      {
+        "text": "b)",
+        "score": 0.834
+      },
+      {
+        "text": "Describe thepulse transformer circuit and its equivalent circuit.",
+        "score": 0.96
+      },
+      {
+        "text": "5",
+        "score": 0.989
+      },
+      {
+        "text": "Explain pulse transmissionwith input and output waveforms in different media.",
+        "score": 0.949
+      },
+      {
+        "text": "a)",
+        "score": 0.964
+      },
+      {
+        "text": "DrawtheblockdiagramofaD/A converter and explainits operation",
+        "score": 0.969
+      },
+      {
+        "text": "b)",
+        "score": 0.906
+      },
+      {
+        "text": "Describe negative clipping circuit.",
+        "score": 0.975
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "c)",
+        "score": 0.697
+      },
+      {
+        "text": "Write down the usages of a clipping circuit",
+        "score": 0.945
+      },
+      {
+        "text": "3",
+        "score": 0.994
+      },
+      {
+        "text": "d)DefineLED&LCD",
+        "score": 0.96
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "a)",
+        "score": 0.955
+      },
+      {
+        "text": "Explain the memory Read and Write operation.",
+        "score": 0.948
+      },
+      {
+        "text": "b)Explain pulse generator block diagram.",
+        "score": 0.959
+      },
+      {
+        "text": "5",
+        "score": 0.734
+      },
+      {
+        "text": "c)Implementmono-stable multivibrator circuit.",
+        "score": 0.965
+      },
+      {
+        "text": "5",
+        "score": 0.999
+      }
+    ]
+  ],
+  "eee-407-devices-instrumentation-2020": [
+    [
+      {
+        "text": "Department:Computer Science &Engineering",
+        "score": 0.887
+      },
+      {
+        "text": "2Year 2SemesterExamination-2020 (Session2018-19)",
+        "score": 0.882
+      },
+      {
+        "text": "Subject:Electrical Devices and Instrumentation",
+        "score": 0.895
+      },
+      {
+        "text": "Subject code:EEE-407",
+        "score": 0.902
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.971
+      },
+      {
+        "text": "[Answer any five questions.Assume reasonable value forany missing data.]",
+        "score": 0.865
+      },
+      {
+        "text": "aWhatisTrensfoerWhyfrqency of priaryad sndary oftrasfoer",
+        "score": 0.738
+      },
+      {
+        "text": "Time:3.00Houry",
+        "score": 0.835
+      },
+      {
+        "text": "b)Why Trnsformer rated at KVA7",
+        "score": 0.847
+      },
+      {
+        "text": "c)Explain Trnsformcr name plate Data",
+        "score": 0.86
+      },
+      {
+        "text": "Find the all day efficiency ofa 50KVA disributo trnomerhaving full oad efficincy ofgand",
+        "score": 0.771
+      },
+      {
+        "text": "loadcopper loqul tocontnt ron losTh ldngp.f1.0isas（iNld10,(",
+        "score": 0.665
+      },
+      {
+        "text": "at 5hours;（i) 25%loadat6hours;(iv) full londat3 hourx",
+        "score": 0.808
+      },
+      {
+        "text": "a)Why do we nced a starter to stat a DCmotor?",
+        "score": 0.821
+      },
+      {
+        "text": "b)How can we control the speed of stepper motor?",
+        "score": 0.873
+      },
+      {
+        "text": "c)Write aboutPermanent magnetBrushless AC Generator with circuit Diagam",
+        "score": 0.869
+      },
+      {
+        "text": "A3phase induction motor is wound for 4poles and is supplied from S-Hz systemCalculate (i） the",
+        "score": 0.818
+      },
+      {
+        "text": "synchronous spced （) The rotor spced when slip is 4% and （i） Rotor frequcy en rotor uns at600",
+        "score": 0.848
+      },
+      {
+        "text": "sd",
+        "score": 0.746
+      },
+      {
+        "text": "3司",
+        "score": 0.593
+      },
+      {
+        "text": "What are the desirable characteristics of a transdoer clemen？",
+        "score": 0.871
+      },
+      {
+        "text": "b1",
+        "score": 0.672
+      },
+      {
+        "text": "State the difference betwcen analogand digital indicatons",
+        "score": 0.899
+      },
+      {
+        "text": "c)",
+        "score": 0.584
+      },
+      {
+        "text": "Explain the operating principle ofa ramp type DVM",
+        "score": 0.854
+      },
+      {
+        "text": "d)",
+        "score": 0.648
+      },
+      {
+        "text": "Acapacitie tansducer consists of rwo plates ofdimer 2cm cach,separated by air gap of025m",
+        "score": 0.77
+      },
+      {
+        "text": "Find the displncement sensitivity",
+        "score": 0.949
+      },
+      {
+        "text": "a)",
+        "score": 0.759
+      },
+      {
+        "text": "Classify DCgenerator",
+        "score": 0.92
+      },
+      {
+        "text": "b",
+        "score": 0.956
+      },
+      {
+        "text": "Whut is back e.m.f7 Write down the signiicancc of bnck em.",
+        "score": 0.854
+      },
+      {
+        "text": "(i)Asa motor taking 25kw input.",
+        "score": 0.861
+      },
+      {
+        "text": "Why single phase induction motor is not self-starting?",
+        "score": 0.893
+      },
+      {
+        "text": "Classify digital voltmetens.",
+        "score": 0.917
+      },
+      {
+        "text": "b)Wht sinstrunttinmliferWritedownthkeyfeatii ofinstruetatnplifer",
+        "score": 0.704
+      },
+      {
+        "text": "c)Explain theconstrctionndopertionofaLD dispay",
+        "score": 0.707
+      },
+      {
+        "text": "dCompare LED and LCD display",
+        "score": 0.883
+      },
+      {
+        "text": "Whnt are the key fentures of insruentation apliten?",
+        "score": 0.809
+      },
+      {
+        "text": "b）Expan th onction andopetin fa Piezelecr tandcer",
+        "score": 0.702
+      },
+      {
+        "text": "Explin te working priiple ofa Thermo-electric geerator",
+        "score": 0.81
+      },
+      {
+        "text": "d)Disabout fuctionalclements ofsmeasuroments sysem",
+        "score": 0.724
+      },
+      {
+        "text": "a）Whut doyounderstnd by DAS?",
+        "score": 0.784
+      },
+      {
+        "text": "b)Dicu the option ofa largescaleDASwithrequird lck diag",
+        "score": 0.723
+      },
+      {
+        "text": "c）Shtcblockdqus",
+        "score": 0.604
+      },
+      {
+        "text": "d）State theobjectives ofa DAS",
+        "score": 0.806
+      }
+    ]
+  ],
+  "eee-407-devices-instrumentation-2021": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.964
+      },
+      {
+        "text": "Afflliated Engineering Colleges",
+        "score": 0.941
+      },
+      {
+        "text": "B.Sc.in Computer Science &Engineering",
+        "score": 0.96
+      },
+      {
+        "text": "2ndYear 1SemesterFinal Examination-2021",
+        "score": 0.964
+      },
+      {
+        "text": "EEE 2104(Electronic Devices and Circuits)",
+        "score": 0.946
+      },
+      {
+        "text": "Time:3.00 Hours",
+        "score": 0.958
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.98
+      },
+      {
+        "text": "[Answer any Fivequestions]",
+        "score": 0.967
+      },
+      {
+        "text": "What is semiconductor?Write down properties of semiconductor.",
+        "score": 0.956
+      },
+      {
+        "text": "a)",
+        "score": 0.868
+      },
+      {
+        "text": "3",
+        "score": 0.992
+      },
+      {
+        "text": "b)",
+        "score": 0.889
+      },
+      {
+        "text": "Why we use semiconductor?Discuss about intrinsic semiconductor.",
+        "score": 0.976
+      },
+      {
+        "text": "5",
+        "score": 0.695
+      },
+      {
+        "text": "c)",
+        "score": 0.727
+      },
+      {
+        "text": "What isLED?Explain working principleof LED.",
+        "score": 0.952
+      },
+      {
+        "text": "4",
+        "score": 0.996
+      },
+      {
+        "text": "d)",
+        "score": 0.748
+      },
+      {
+        "text": "What doyou mean by extrinsic semiconductor?",
+        "score": 0.951
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "a)",
+        "score": 0.871
+      },
+      {
+        "text": "What is diode?Explain operating principle of bridge full wave rectifier.",
+        "score": 0.941
+      },
+      {
+        "text": "b)",
+        "score": 0.899
+      },
+      {
+        "text": "Discuss V-I characteristics of PN junction.",
+        "score": 0.969
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "Determine the currents I2,and ID for the network of",
+        "score": 0.901
+      },
+      {
+        "text": "3",
+        "score": 0.993
+      },
+      {
+        "text": "Figure.",
+        "score": 0.994
+      },
+      {
+        "text": "R2",
+        "score": 0.84
+      },
+      {
+        "text": "1000",
+        "score": 0.858
+      },
+      {
+        "text": "3.a) How Zener diode works as voltage regulator.Write down application of diode.",
+        "score": 0.942
+      },
+      {
+        "text": "4",
+        "score": 0.895
+      },
+      {
+        "text": "b)What do you mean by clippers &clampers circuit?",
+        "score": 0.937
+      },
+      {
+        "text": "2",
+        "score": 0.997
+      },
+      {
+        "text": "Write down advantage and disadvantage of full wave rectifier.",
+        "score": 0.938
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "d",
+        "score": 0.969
+      },
+      {
+        "text": "）For theZener diodenetworkof Figure.",
+        "score": 0.953
+      },
+      {
+        "text": "2200",
+        "score": 0.887
+      },
+      {
+        "text": "IR",
+        "score": 0.851
+      },
+      {
+        "text": "DetermineVL,VR,IZ,andPZ.Whre",
+        "score": 0.806
+      },
+      {
+        "text": "Vi=30V.",
+        "score": 0.946
+      },
+      {
+        "text": "VI",
+        "score": 0.872
+      },
+      {
+        "text": "V=20V",
+        "score": 0.777
+      },
+      {
+        "text": "RL",
+        "score": 0.98
+      },
+      {
+        "text": "tzm-60mA",
+        "score": 0.726
+      },
+      {
+        "text": "a)",
+        "score": 0.864
+      },
+      {
+        "text": "What do you mean by leakage current?",
+        "score": 0.953
+      },
+      {
+        "text": "b)",
+        "score": 0.777
+      },
+      {
+        "text": "Explain CE characteristics oftransistor.",
+        "score": 0.961
+      },
+      {
+        "text": "c)",
+        "score": 0.57
+      },
+      {
+        "text": "Discuss about Transistor Circuit as an amplifier.",
+        "score": 0.95
+      },
+      {
+        "text": "5",
+        "score": 0.709
+      },
+      {
+        "text": "d",
+        "score": 0.914
+      },
+      {
+        "text": "Determine thefollowingforthe fixed-bias",
+        "score": 0.973
+      },
+      {
+        "text": "Vec=12V",
+        "score": 0.819
+      },
+      {
+        "text": "configuration of Figure.",
+        "score": 0.968
+      },
+      {
+        "text": "(i)IBand IC.",
+        "score": 0.843
+      },
+      {
+        "text": "(i)VCE.",
+        "score": 0.785
+      },
+      {
+        "text": "2.2K9",
+        "score": 0.919
+      },
+      {
+        "text": "(i) VB andVC.",
+        "score": 0.876
+      },
+      {
+        "text": "RB-240K0",
+        "score": 0.833
+      },
+      {
+        "text": "(iv)VBC.",
+        "score": 0.906
+      },
+      {
+        "text": "Vc",
+        "score": 0.591
+      },
+      {
+        "text": "0=50",
+        "score": 0.584
+      },
+      {
+        "text": "Write down the advantages of FET over BJT.",
+        "score": 0.954
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "5.",
+        "score": 0.864
+      },
+      {
+        "text": "7",
+        "score": 0.997
+      },
+      {
+        "text": "b)",
+        "score": 0.852
+      },
+      {
+        "text": "Discussworkingprinciple of JFETwith necessary diagram.",
+        "score": 0.968
+      },
+      {
+        "text": "Explain the circuit operation of E-MOSFET according toThreshold voltage.",
+        "score": 0.96
+      },
+      {
+        "text": "5",
+        "score": 0.876
+      },
+      {
+        "text": "c)",
+        "score": 0.727
+      },
+      {
+        "text": "What is Operational Amplifier?Write the properties ofit.",
+        "score": 0.949
+      },
+      {
+        "text": "1+2",
+        "score": 0.994
+      },
+      {
+        "text": "a)",
+        "score": 0.848
+      },
+      {
+        "text": "b)",
+        "score": 0.751
+      },
+      {
+        "text": "）For inverting Amplifier derive the equation given below,",
+        "score": 0.926
+      },
+      {
+        "text": "7",
+        "score": 0.998
+      },
+      {
+        "text": "R",
+        "score": 0.96
+      },
+      {
+        "text": "Aa=",
+        "score": 0.951
+      },
+      {
+        "text": "VR",
+        "score": 0.929
+      },
+      {
+        "text": "c)Find the output voltage for the circuit shown inFig.",
+        "score": 0.914
+      },
+      {
+        "text": "40k2",
+        "score": 0.781
+      },
+      {
+        "text": "+0,5V",
+        "score": 0.885
+      },
+      {
+        "text": "15V",
+        "score": 0.99
+      },
+      {
+        "text": "-0.5V-",
+        "score": 0.886
+      },
+      {
+        "text": "15V",
+        "score": 0.993
+      },
+      {
+        "text": "Fig.",
+        "score": 0.968
+      }
+    ]
+  ],
+  "eee-407-devices-instrumentation-2022": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.955
+      },
+      {
+        "text": "Affiliated Engineering Colleges",
+        "score": 0.98
+      },
+      {
+        "text": "Department of Computer Science and Engineering",
+        "score": 0.956
+      },
+      {
+        "text": "2nd Year 1st Semester B.Sc.(Engg.)Final Examination-2022",
+        "score": 0.941
+      },
+      {
+        "text": "EEE 2104:ElectronicDevices and Circuits",
+        "score": 0.972
+      },
+      {
+        "text": "Time:3Hours",
+        "score": 0.981
+      },
+      {
+        "text": "TotalMarks:70",
+        "score": 0.98
+      },
+      {
+        "text": "Answer any5 (Five) set of thefollowingQuestions",
+        "score": 0.918
+      },
+      {
+        "text": "a)",
+        "score": 0.907
+      },
+      {
+        "text": "What is semiconductor?Why do we use semiconductors?",
+        "score": 0.954
+      },
+      {
+        "text": "1+2",
+        "score": 0.99
+      },
+      {
+        "text": "b)",
+        "score": 0.883
+      },
+      {
+        "text": "Differentiate between extrinsic and intrinsic semiconductor.",
+        "score": 0.956
+      },
+      {
+        "text": "3",
+        "score": 0.971
+      },
+      {
+        "text": "C)",
+        "score": 0.632
+      },
+      {
+        "text": "Explain thevolt-ampere (V-l) characteristics of PN junction.",
+        "score": 0.931
+      },
+      {
+        "text": "5",
+        "score": 0.785
+      },
+      {
+        "text": "d",
+        "score": 0.886
+      },
+      {
+        "text": "What is doping?Why it is done?",
+        "score": 0.935
+      },
+      {
+        "text": "1+2",
+        "score": 0.984
+      },
+      {
+        "text": "B",
+        "score": 0.771
+      },
+      {
+        "text": "Explain working principle of a full wave bridge rectifier with a neat sketch.",
+        "score": 0.928
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.866
+      },
+      {
+        "text": "What isLED?Explain the workingprincipleof LED.",
+        "score": 0.944
+      },
+      {
+        "text": "1+3",
+        "score": 0.98
+      },
+      {
+        "text": "Writedown advantage and disadvantageof full waverectifier.",
+        "score": 0.964
+      },
+      {
+        "text": "03",
+        "score": 0.998
+      },
+      {
+        "text": "P",
+        "score": 0.896
+      },
+      {
+        "text": "Ana.c supply of 230Vis applied toa halfwave rectifier circuit througha transformer of",
+        "score": 0.933
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "turn ratio 10:1 Find(i) the output d.cvoltage and （i)the peak inverse voltage.Assume",
+        "score": 0.914
+      },
+      {
+        "text": "the diode tobe ideal.",
+        "score": 0.928
+      },
+      {
+        "text": "a)",
+        "score": 0.943
+      },
+      {
+        "text": "What is Zener diode?Explain how does zener diode regulate voltage?",
+        "score": 0.944
+      },
+      {
+        "text": "b)",
+        "score": 0.879
+      },
+      {
+        "text": "For the Zener dioderegulator,Determine:",
+        "score": 0.937
+      },
+      {
+        "text": "(i）V（i)VR（ii)1z（iv）Pz",
+        "score": 0.667
+      },
+      {
+        "text": "+Vx-",
+        "score": 0.657
+      },
+      {
+        "text": "R1kQ",
+        "score": 0.892
+      },
+      {
+        "text": "R",
+        "score": 0.97
+      },
+      {
+        "text": "3kQ",
+        "score": 0.908
+      },
+      {
+        "text": "Discussworkingprinciple of JFETwithnecessary diagram.",
+        "score": 0.971
+      },
+      {
+        "text": "a)",
+        "score": 0.843
+      },
+      {
+        "text": "How does transistorwork asa switch?",
+        "score": 0.939
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.821
+      },
+      {
+        "text": "Why does the transistorneedbiasing?",
+        "score": 0.956
+      },
+      {
+        "text": "3",
+        "score": 0.997
+      },
+      {
+        "text": "C)",
+        "score": 0.654
+      },
+      {
+        "text": "1+3",
+        "score": 0.99
+      },
+      {
+        "text": "1-a",
+        "score": 0.778
+      },
+      {
+        "text": "d)",
+        "score": 0.795
+      },
+      {
+        "text": "Whatisclippercircuit?Determine the outputwaveformfornetworkof thefollowing",
+        "score": 0.961
+      },
+      {
+        "text": "1+3",
+        "score": 0.994
+      },
+      {
+        "text": "figure[Assume the diode to beSilicon].",
+        "score": 0.942
+      },
+      {
+        "text": "R",
+        "score": 0.939
+      },
+      {
+        "text": "W",
+        "score": 0.629
+      },
+      {
+        "text": "10k0",
+        "score": 0.689
+      },
+      {
+        "text": "IN914",
+        "score": 0.825
+      },
+      {
+        "text": "大",
+        "score": 0.79
+      },
+      {
+        "text": "RL",
+        "score": 0.718
+      },
+      {
+        "text": "100k1",
+        "score": 0.838
+      }
+    ],
+    [
+      {
+        "text": "a)",
+        "score": 0.868
+      },
+      {
+        "text": "What is SCR?Explain operating principle of SCR.",
+        "score": 0.906
+      },
+      {
+        "text": "05",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.744
+      },
+      {
+        "text": "What isTRIAC?Explainoperating principleofTRIAC.",
+        "score": 0.884
+      },
+      {
+        "text": "05-",
+        "score": 0.858
+      },
+      {
+        "text": "For the followingZener diodenetworkdetermineV,V,and.",
+        "score": 0.834
+      },
+      {
+        "text": "0",
+        "score": 0.664
+      },
+      {
+        "text": "R",
+        "score": 0.958
+      },
+      {
+        "text": "1kΩ",
+        "score": 0.746
+      },
+      {
+        "text": "Vz=10vZ",
+        "score": 0.856
+      },
+      {
+        "text": "PZM=30mW",
+        "score": 0.944
+      },
+      {
+        "text": "What is FET? Describe the operating principle of D-MOSFET.",
+        "score": 0.945
+      },
+      {
+        "text": "06",
+        "score": 0.997
+      },
+      {
+        "text": "b)",
+        "score": 0.837
+      },
+      {
+        "text": "Discuss the operation of summing amplifier.",
+        "score": 0.974
+      },
+      {
+        "text": "03",
+        "score": 0.998
+      },
+      {
+        "text": ")DetemineR,Rc,I,V andVcefor the following fixed-bias configuraton.",
+        "score": 0.801
+      },
+      {
+        "text": "05",
+        "score": 0.999
+      },
+      {
+        "text": "12V",
+        "score": 0.97
+      },
+      {
+        "text": "VC=6",
+        "score": 0.829
+      },
+      {
+        "text": "β=80",
+        "score": 0.953
+      },
+      {
+        "text": "1B=40μA",
+        "score": 0.795
+      },
+      {
+        "text": "a)",
+        "score": 0.941
+      },
+      {
+        "text": "What is the importance of power electronics?",
+        "score": 0.96
+      },
+      {
+        "text": "2",
+        "score": 0.998
+      },
+      {
+        "text": "b)",
+        "score": 0.728
+      },
+      {
+        "text": "Whatisnon-inverting amplifier?Derive theoutputvoltage equationofnon-inverting",
+        "score": 0.961
+      },
+      {
+        "text": "05",
+        "score": 0.998
+      },
+      {
+        "text": "amplifier",
+        "score": 0.99
+      },
+      {
+        "text": "c)",
+        "score": 0.746
+      },
+      {
+        "text": "What is an op-amp?What is the need of negative feedback in an op-amp?",
+        "score": 0.929
+      },
+      {
+        "text": "1+2",
+        "score": 0.992
+      },
+      {
+        "text": "d)",
+        "score": 0.702
+      },
+      {
+        "text": "Determine the outputvoltageforthe circuit ofFigurewitha sinusoidalinputof",
+        "score": 0.948
+      },
+      {
+        "text": "0",
+        "score": 0.898
+      },
+      {
+        "text": "2.5mV.WhereRf=10KQ andRin=470Q.",
+        "score": 0.967
+      },
+      {
+        "text": "Rf",
+        "score": 0.85
+      },
+      {
+        "text": "Rin",
+        "score": 0.964
+      },
+      {
+        "text": "vinW",
+        "score": 0.658
+      },
+      {
+        "text": "out",
+        "score": 0.907
+      }
+    ]
+  ],
+  "eee-407-devices-instrumentation-2023": [
+    [
+      {
+        "text": "UniversityofDhaka",
+        "score": 0.995
+      },
+      {
+        "text": "AffiliatedEngineeringColleges/Institute",
+        "score": 0.956
+      },
+      {
+        "text": "DepartmentofComputerScience andEngineering",
+        "score": 0.982
+      },
+      {
+        "text": "2ndYear1 SemesterB.Sc.Final Examination,2023",
+        "score": 0.914
+      },
+      {
+        "text": "Course Code:EEE2104",
+        "score": 0.971
+      },
+      {
+        "text": "CourseName:Electronic Devices and Circuits",
+        "score": 0.953
+      },
+      {
+        "text": "Time:3Hours",
+        "score": 0.987
+      },
+      {
+        "text": "FullMarks:5x14=70",
+        "score": 0.961
+      },
+      {
+        "text": "Answer any 5(Five)setof thefollowingQuestions",
+        "score": 0.946
+      },
+      {
+        "text": "3",
+        "score": 0.981
+      },
+      {
+        "text": "a)What aren-typeandp-type semiconductors?",
+        "score": 0.924
+      },
+      {
+        "text": "b)Explain forward andreverse bias in the pn junction diode.Also,draw the V-14+2",
+        "score": 0.921
+      },
+      {
+        "text": "characteristicscurve ofthepnjunctiondiode.",
+        "score": 0.943
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "c)Whydoesreversesaturationcurrentexistinadiode?",
+        "score": 0.916
+      },
+      {
+        "text": "d)Briefly describethetemperatureeffectsonsemiconductorsusing theV-Icurve.",
+        "score": 0.943
+      },
+      {
+        "text": "3",
+        "score": 0.992
+      },
+      {
+        "text": "a)Write down thedifferencebetweenthe pnjunctiondiode and thezener diode.",
+        "score": 0.936
+      },
+      {
+        "text": "3",
+        "score": 0.995
+      },
+      {
+        "text": "b)Explain how the zener diode works asa voltageregulator.",
+        "score": 0.934
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "c)What isLED?Explain workingprinciple ofLED.",
+        "score": 0.946
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "d)FindV andIpin the network shown in the followingfigure.Designit'sequivalent",
+        "score": 0.923
+      },
+      {
+        "text": "simplifiedmodel.",
+        "score": 0.951
+      },
+      {
+        "text": "+10V",
+        "score": 0.966
+      },
+      {
+        "text": "a)Definetheclipperandclampercircuit withanexample.",
+        "score": 0.97
+      },
+      {
+        "text": "b)Determine Vof the followingfigure.",
+        "score": 0.908
+      },
+      {
+        "text": "3",
+        "score": 0.997
+      },
+      {
+        "text": "c)Derive the efficiency forafull-waverectifier.",
+        "score": 0.942
+      },
+      {
+        "text": "d)What ismeantbyripplefactor?Whyfiltercircuits areusedinrectifiers?Name some of2+2",
+        "score": 0.933
+      },
+      {
+        "text": "the commonlyused filter circuits.",
+        "score": 0.94
+      },
+      {
+        "text": "What isDIAC?Explainoperating principle ofDIAC.",
+        "score": 0.94
+      },
+      {
+        "text": "05",
+        "score": 0.989
+      },
+      {
+        "text": "(B",
+        "score": 0.721
+      },
+      {
+        "text": "04",
+        "score": 0.998
+      },
+      {
+        "text": "b)Discuss operatingprinciple of summingamplifier.",
+        "score": 0.959
+      },
+      {
+        "text": "c)Explain theworkingprincipleofSilicon ControlledRectifier（SCR）.Also,drawtheV-1",
+        "score": 0.907
+      },
+      {
+        "text": "5",
+        "score": 0.835
+      },
+      {
+        "text": "characteristicscurve ofSCR.",
+        "score": 0.963
+      },
+      {
+        "text": "a)Define faithful amplification.What are the conditions required to achieve faithful",
+        "score": 0.939
+      },
+      {
+        "text": "3",
+        "score": 0.994
+      },
+      {
+        "text": "amplification?",
+        "score": 0.95
+      },
+      {
+        "text": "b)Explain thevoltage-divider biasmethodofthe transistor amplifier circuit using figure.",
+        "score": 0.924
+      },
+      {
+        "text": "Mention the advantagesofusing thismethod.",
+        "score": 0.967
+      },
+      {
+        "text": "c)Differentiate between BJTandFET.",
+        "score": 0.925
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "d)Describe the operating principle ofJFET.",
+        "score": 0.946
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      }
+    ],
+    [
+      {
+        "text": "a)Explain howa transistoractsasan amplifier.",
+        "score": 0.958
+      },
+      {
+        "text": "3",
+        "score": 0.995
+      },
+      {
+        "text": "b)What istransistor?Why transistor is called current control device?",
+        "score": 0.93
+      },
+      {
+        "text": "03",
+        "score": 0.998
+      },
+      {
+        "text": "c)Whatismeantbytransistorloadline?WhatisthesignificanceofQ-pointoroperating",
+        "score": 0.878
+      },
+      {
+        "text": "2+2",
+        "score": 0.993
+      },
+      {
+        "text": "point?",
+        "score": 0.976
+      },
+      {
+        "text": "voltage drop acrossRc is0.5V.Determine the Vce and the curent Is for the",
+        "score": 0.889
+      },
+      {
+        "text": "configuration ofthe followingfigure.Given,α=0.96.",
+        "score": 0.962
+      },
+      {
+        "text": "'c",
+        "score": 0.585
+      },
+      {
+        "text": "R=800",
+        "score": 0.943
+      },
+      {
+        "text": "a)Whynegative feedbackisused inamplifier operation？Derivethe gain of the negative",
+        "score": 0.919
+      },
+      {
+        "text": "voltagefcedbackamplifier.",
+        "score": 0.974
+      },
+      {
+        "text": "4",
+        "score": 1.0
+      },
+      {
+        "text": "b）",
+        "score": 0.737
+      },
+      {
+        "text": "WhatisInvertingamplifier?Derivetheoutputvoltage equationofInvertingamplifier.",
+        "score": 0.944
+      },
+      {
+        "text": "4",
+        "score": 0.994
+      },
+      {
+        "text": "c)E",
+        "score": 0.69
+      },
+      {
+        "text": "ExplainhowanLCtankcircuitcan sustain oscillation.",
+        "score": 0.966
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "d)Find the output of the op-amp circuit shownin thefollowingfigure.",
+        "score": 0.914
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "10k1",
+        "score": 0.822
+      },
+      {
+        "text": "4k[)",
+        "score": 0.642
+      },
+      {
+        "text": "a",
+        "score": 0.899
+      }
+    ]
+  ],
+  "math-401-linear-algebra-2020": [
+    [
+      {
+        "text": "lyxLapies Transfo",
+        "score": 0.643
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.967
+      },
+      {
+        "text": "Sublect code Math 401",
+        "score": 0.887
+      },
+      {
+        "text": "[Answer any five quzestiom.Asume reasonaole vale for any",
+        "score": 0.779
+      },
+      {
+        "text": "DefieOrthogonal Matixand IencMstrisSho tht ery at a",
+        "score": 0.692
+      },
+      {
+        "text": "symmotricand Skew-symmetric mntri",
+        "score": 0.788
+      },
+      {
+        "text": "dta",
+        "score": 0.615
+      },
+      {
+        "text": "b",
+        "score": 0.862
+      },
+      {
+        "text": "If AB-BA then prove hat(AB)-AB",
+        "score": 0.781
+      },
+      {
+        "text": "Prove that",
+        "score": 0.868
+      },
+      {
+        "text": "1+门",
+        "score": 0.518
+      },
+      {
+        "text": "unitar",
+        "score": 0.859
+      },
+      {
+        "text": "Definematrix polynomial. Let A=",
+        "score": 0.807
+      },
+      {
+        "text": "df（）=-4+3teptf）",
+        "score": 0.604
+      },
+      {
+        "text": "b)State and prove Cayley-Hamilton thecrem",
+        "score": 0.872
+      },
+      {
+        "text": "What iscurlofa vector?Prove that.(Vxd)=0",
+        "score": 0.791
+      },
+      {
+        "text": "49",
+        "score": 0.687
+      },
+      {
+        "text": "Findtqnngplanntfyp）",
+        "score": 0.655
+      },
+      {
+        "text": "21-31+6k",
+        "score": 0.843
+      },
+      {
+        "text": "efF（x）ie",
+        "score": 0.576
+      },
+      {
+        "text": "(a[r(x)cos",
+        "score": 0.532
+      },
+      {
+        "text": "b）Find the Fourier scries expansion of the petiodicfuction f（x）=x whn-<x<o and f（x）xwhen 1o",
+        "score": 0.77
+      },
+      {
+        "text": "Definevector space and subc.Show th s-a,b,cd）e9:2a-3b+5c-d=oisaspct of",
+        "score": 0.728
+      },
+      {
+        "text": "Define fincar dependence and independence of vector. Show tha (l,-1（,02）.(ln）vecton are",
+        "score": 0.76
+      },
+      {
+        "text": "linearly independence.",
+        "score": 0.932
+      },
+      {
+        "text": "Show that asingleoctor is linearly dependent and only fitisazero ecto",
+        "score": 0.796
+      },
+      {
+        "text": "C)",
+        "score": 0.695
+      },
+      {
+        "text": "a)Solve he initial value problem by Laplace transfomY-3Y+3Y-y=²e",
+        "score": 0.763
+      },
+      {
+        "text": "Y(0）=1.r（0)=0.Y(0)=-2",
+        "score": 0.743
+      },
+      {
+        "text": "b)Usingconvolution theorem evaluate",
+        "score": 0.877
+      },
+      {
+        "text": "（s+)",
+        "score": 0.633
+      },
+      {
+        "text": "F(}=f（）t sow tF",
+        "score": 0.531
+      },
+      {
+        "text": "Show that E=（x²-y）+（y-zx）+（²-xy isa coservative force ficid",
+        "score": 0.777
+      },
+      {
+        "text": "2x+3y+6z=12which is locted in he fioctnt",
+        "score": 0.864
+      },
+      {
+        "text": "1-2",
+        "score": 0.743
+      },
+      {
+        "text": "（sinx-xcosx)",
+        "score": 0.844
+      },
+      {
+        "text": "cos",
+        "score": 0.64
+      },
+      {
+        "text": "）Find the Fourier trnsferm of F（x）=",
+        "score": 0.785
+      },
+      {
+        "text": "Alsoprove that",
+        "score": 0.909
+      },
+      {
+        "text": "1<0",
+        "score": 0.853
+      },
+      {
+        "text": "16",
+        "score": 0.942
+      }
+    ]
+  ],
+  "math-401-linear-algebra-2021": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.963
+      },
+      {
+        "text": "Affiliated Engineering Colleges",
+        "score": 0.931
+      },
+      {
+        "text": "B.Sc.in Computer Science & Engineering",
+        "score": 0.915
+      },
+      {
+        "text": "2nd Year 1# SemesterFinal Examination-2021",
+        "score": 0.926
+      },
+      {
+        "text": "Time:3.00 Hours",
+        "score": 0.954
+      },
+      {
+        "text": "MATH 2105(Linear Algebra)",
+        "score": 0.942
+      },
+      {
+        "text": "[Answer any Five questions]",
+        "score": 0.974
+      },
+      {
+        "text": "Marks:70",
+        "score": 0.98
+      },
+      {
+        "text": "a)",
+        "score": 0.83
+      },
+      {
+        "text": "What is periodicmatrix?Find the periodic of thematrix",
+        "score": 0.94
+      },
+      {
+        "text": "-2",
+        "score": 0.965
+      },
+      {
+        "text": "-6",
+        "score": 0.985
+      },
+      {
+        "text": "-3",
+        "score": 0.952
+      },
+      {
+        "text": "2",
+        "score": 0.998
+      },
+      {
+        "text": "9",
+        "score": 0.999
+      },
+      {
+        "text": "2",
+        "score": 0.997
+      },
+      {
+        "text": "0",
+        "score": 0.935
+      },
+      {
+        "text": "了",
+        "score": 0.544
+      },
+      {
+        "text": "b) Solve the system of equations by Cromer's rule: 2x-y+3z=-2",
+        "score": 0.966
+      },
+      {
+        "text": "x+2y-z=9",
+        "score": 0.989
+      },
+      {
+        "text": "3x+2y+3z=9",
+        "score": 0.992
+      },
+      {
+        "text": "a+a",
+        "score": 0.869
+      },
+      {
+        "text": "c) Define minors and cofactors. Prove that,",
+        "score": 0.968
+      },
+      {
+        "text": "b",
+        "score": 0.968
+      },
+      {
+        "text": "C",
+        "score": 0.665
+      },
+      {
+        "text": "d",
+        "score": 0.978
+      },
+      {
+        "text": "a",
+        "score": 0.874
+      },
+      {
+        "text": "2+b",
+        "score": 0.842
+      },
+      {
+        "text": "C",
+        "score": 0.618
+      },
+      {
+        "text": "d",
+        "score": 0.974
+      },
+      {
+        "text": "=x（x+a+b+c+d)",
+        "score": 0.864
+      },
+      {
+        "text": "A+c",
+        "score": 0.718
+      },
+      {
+        "text": "6",
+        "score": 0.999
+      },
+      {
+        "text": "a",
+        "score": 0.821
+      },
+      {
+        "text": "b",
+        "score": 0.971
+      },
+      {
+        "text": "P",
+        "score": 0.601
+      },
+      {
+        "text": "D",
+        "score": 0.942
+      },
+      {
+        "text": "b",
+        "score": 0.995
+      },
+      {
+        "text": "C",
+        "score": 0.698
+      },
+      {
+        "text": "5",
+        "score": 0.99
+      },
+      {
+        "text": "20-1",
+        "score": 0.967
+      },
+      {
+        "text": "b)",
+        "score": 0.835
+      },
+      {
+        "text": "Define rank of a matrix.Find therank of the matrix",
+        "score": 0.927
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "1",
+        "score": 0.985
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "5",
+        "score": 0.982
+      },
+      {
+        "text": "Solve the system of linear equation: 2x- 3y + 5z=1, 3x+y-z=2, x+4y-6z=1",
+        "score": 0.954
+      },
+      {
+        "text": "-2",
+        "score": 0.832
+      },
+      {
+        "text": "3",
+        "score": 0.997
+      },
+      {
+        "text": "5",
+        "score": 0.998
+      },
+      {
+        "text": "?",
+        "score": 0.767
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "3.",
+        "score": 0.984
+      },
+      {
+        "text": "a)",
+        "score": 0.897
+      },
+      {
+        "text": "State and prove Cayley-Hamilton theorem.",
+        "score": 0.973
+      },
+      {
+        "text": "1+5",
+        "score": 0.988
+      },
+      {
+        "text": "b)",
+        "score": 0.86
+      },
+      {
+        "text": "1",
+        "score": 0.985
+      },
+      {
+        "text": "0",
+        "score": 0.988
+      },
+      {
+        "text": "1",
+        "score": 0.995
+      },
+      {
+        "text": "5+3",
+        "score": 0.994
+      },
+      {
+        "text": "Verify Cayley-Hamilton theorem for the matrix A=",
+        "score": 0.963
+      },
+      {
+        "text": "-1",
+        "score": 0.938
+      },
+      {
+        "text": "-1",
+        "score": 0.969
+      },
+      {
+        "text": "0",
+        "score": 0.984
+      },
+      {
+        "text": "Find Ausing this",
+        "score": 0.968
+      },
+      {
+        "text": "theorem.",
+        "score": 0.992
+      },
+      {
+        "text": "0",
+        "score": 0.991
+      },
+      {
+        "text": "1",
+        "score": 0.996
+      },
+      {
+        "text": "1",
+        "score": 0.992
+      },
+      {
+        "text": "4.a)",
+        "score": 0.862
+      },
+      {
+        "text": "Apply Gram-Schmidt Process to transform the basis u = (1,1,1),u2 = (1,1,0) and u =",
+        "score": 0.928
+      },
+      {
+        "text": "7",
+        "score": 0.999
+      },
+      {
+        "text": "(1,0,0) into an orthogonal basis.",
+        "score": 0.917
+      },
+      {
+        "text": "b)",
+        "score": 0.799
+      },
+      {
+        "text": "Show that every square matrix can be uniquely expressed as the sum of a symmetric and",
+        "score": 0.946
+      },
+      {
+        "text": "5",
+        "score": 0.899
+      },
+      {
+        "text": "skew symmetric matrix.",
+        "score": 0.957
+      },
+      {
+        "text": "c)",
+        "score": 0.774
+      },
+      {
+        "text": "Define kernel and range of a linear Transformation.",
+        "score": 0.934
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "5.a)",
+        "score": 0.854
+      },
+      {
+        "text": "Whatislinear",
+        "score": 0.982
+      },
+      {
+        "text": "transformation?",
+        "score": 0.981
+      },
+      {
+        "text": "？Prove that T:R→R²isdefinedby",
+        "score": 0.905
+      },
+      {
+        "text": "1+3",
+        "score": 0.996
+      },
+      {
+        "text": "T（x,y,z）=（2x+y+z,3x+2y+4z)islinear.",
+        "score": 0.896
+      },
+      {
+        "text": "(q",
+        "score": 0.653
+      },
+      {
+        "text": "Define",
+        "score": 0.989
+      },
+      {
+        "text": "vectors（1,0,1）,（-3,2,6) and（4,5,-2) are linearly independence.",
+        "score": 0.884
+      },
+      {
+        "text": "If T:V（F)→V（F) be a linear operator and v,V,..,V are Eigen vectors belonging",
+        "score": 0.854
+      },
+      {
+        "text": "6",
+        "score": 0.999
+      },
+      {
+        "text": "to distinct Eigen values .respectively then show that the vectors are linearly",
+        "score": 0.898
+      },
+      {
+        "text": "independent.",
+        "score": 0.991
+      },
+      {
+        "text": "Define direct sum of a vector space. Show that the vector space V is the direct sum of it’s",
+        "score": 0.928
+      },
+      {
+        "text": "8",
+        "score": 1.0
+      },
+      {
+        "text": "subspaces S and Tiff",
+        "score": 0.926
+      },
+      {
+        "text": "(i).V=S+T",
+        "score": 0.875
+      },
+      {
+        "text": "（i).SnT=[0}",
+        "score": 0.823
+      },
+      {
+        "text": "b)",
+        "score": 0.809
+      },
+      {
+        "text": "Define diagonal matrix. Diagonalize the matrix A =",
+        "score": 0.956
+      },
+      {
+        "text": "and find an invertible2x2",
+        "score": 0.942
+      },
+      {
+        "text": "6",
+        "score": 0.998
+      },
+      {
+        "text": "matrix such that P-1AP is a diagonal matix with the eigenvalues of A down the diagonal.",
+        "score": 0.939
+      },
+      {
+        "text": "7.a) What is matrix Polynomial? Let f()=#² -4t+7 then prove that f(A)=0 where",
+        "score": 0.923
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "Also find the value of A",
+        "score": 0.923
+      },
+      {
+        "text": "2",
+        "score": 1.0
+      },
+      {
+        "text": "b) Determine the value of such that the following system of linear equation has",
+        "score": 0.943
+      },
+      {
+        "text": "(i)no solution",
+        "score": 0.913
+      },
+      {
+        "text": "(i)more than one solution",
+        "score": 0.918
+      },
+      {
+        "text": "(ii) a unique solution",
+        "score": 0.923
+      },
+      {
+        "text": "x+y+>z=1,x+入y+z=1,2x+y+z=1",
+        "score": 0.872
+      }
+    ],
+    [
+      {
+        "text": "7. a) For the input wave to the clipping circuit shown in Fig., find the output waveform.",
+        "score": 0.962
+      },
+      {
+        "text": "+30V",
+        "score": 0.936
+      },
+      {
+        "text": "10V",
+        "score": 0.958
+      },
+      {
+        "text": "Vin",
+        "score": 0.902
+      },
+      {
+        "text": "10kn",
+        "score": 0.803
+      },
+      {
+        "text": "nt!",
+        "score": 0.562
+      },
+      {
+        "text": "30V",
+        "score": 0.944
+      },
+      {
+        "text": "Fig.",
+        "score": 0.973
+      },
+      {
+        "text": "b)For the input waveform to the clipping circuit in Fig., find the output voltage waveform.",
+        "score": 0.958
+      },
+      {
+        "text": "1k2",
+        "score": 0.871
+      },
+      {
+        "text": "+10V",
+        "score": 0.939
+      },
+      {
+        "text": "0",
+        "score": 0.941
+      },
+      {
+        "text": "5V",
+        "score": 0.93
+      },
+      {
+        "text": "-10V",
+        "score": 0.905
+      },
+      {
+        "text": "Fig.",
+        "score": 0.897
+      }
+    ]
+  ],
+  "math-401-linear-algebra-2022": [
+    [
+      {
+        "text": "University of Dhaka",
+        "score": 0.989
+      },
+      {
+        "text": "Affiliated Engineering Colleges",
+        "score": 0.964
+      },
+      {
+        "text": "Department of Computer Science and Engineering",
+        "score": 0.959
+      },
+      {
+        "text": "2ndYear 1sSemesterB.Sc.inCSEFinal Examination,2022",
+        "score": 0.882
+      },
+      {
+        "text": "MATH-2105:LinearAlgebra",
+        "score": 0.974
+      },
+      {
+        "text": "Total Marks:70",
+        "score": 0.958
+      },
+      {
+        "text": "Time:3Hours",
+        "score": 0.983
+      },
+      {
+        "text": "Answer any 5(Five)of the followingQuestions:",
+        "score": 0.952
+      },
+      {
+        "text": "If A andB are idempotentmatrices,thenA+Bwill beidempotent if and onlyifAB=BA",
+        "score": 0.909
+      },
+      {
+        "text": "5",
+        "score": 0.998
+      },
+      {
+        "text": "=0.",
+        "score": 0.943
+      },
+      {
+        "text": "-2",
+        "score": 0.836
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "Definerank of amatrix.Find therankof thematrix",
+        "score": 0.956
+      },
+      {
+        "text": "—2",
+        "score": 0.694
+      },
+      {
+        "text": "-1",
+        "score": 0.892
+      },
+      {
+        "text": "3",
+        "score": 0.995
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "-1",
+        "score": 0.923
+      },
+      {
+        "text": "-1",
+        "score": 0.809
+      },
+      {
+        "text": "610/",
+        "score": 0.915
+      },
+      {
+        "text": "Prove that thefollowing system of linearequations isinconsistent:",
+        "score": 0.943
+      },
+      {
+        "text": "x1+2x2-3x=-1",
+        "score": 0.938
+      },
+      {
+        "text": "5x+3x2-4x3=2",
+        "score": 0.951
+      },
+      {
+        "text": "3x-x2+2x3=7",
+        "score": 0.919
+      },
+      {
+        "text": "a)Definematrix polynomial.Find theEigen values and corresponding Eigen vectors of the",
+        "score": 0.944
+      },
+      {
+        "text": "2",
+        "score": 0.991
+      },
+      {
+        "text": "1",
+        "score": 0.976
+      },
+      {
+        "text": "0V",
+        "score": 0.603
+      },
+      {
+        "text": "following matrix A =",
+        "score": 0.929
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "0",
+        "score": 0.98
+      },
+      {
+        "text": "0",
+        "score": 0.938
+      },
+      {
+        "text": "0",
+        "score": 0.985
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "2",
+        "score": 0.997
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "/1",
+        "score": 0.952
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "3",
+        "score": 0.993
+      },
+      {
+        "text": "IfA=",
+        "score": 0.951
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "andB=",
+        "score": 0.985
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "4",
+        "score": 0.999
+      },
+      {
+        "text": "Showthat(A+B)²≠A²+2AB+B2",
+        "score": 0.913
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "3/",
+        "score": 0.88
+      },
+      {
+        "text": "3",
+        "score": 0.995
+      },
+      {
+        "text": "4",
+        "score": 0.996
+      },
+      {
+        "text": "Whatiscalledbasisanddimensionofavectorspace?",
+        "score": 0.988
+      },
+      {
+        "text": "1+1",
+        "score": 0.974
+      },
+      {
+        "text": "Does everymatrix havean inverse matrix,Justify？If",
+        "score": 0.912
+      },
+      {
+        "text": "1+4",
+        "score": 0.992
+      },
+      {
+        "text": "b",
+        "score": 0.69
+      },
+      {
+        "text": "[1",
+        "score": 0.755
+      },
+      {
+        "text": "0",
+        "score": 0.969
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "A",
+        "score": 0.997
+      },
+      {
+        "text": "2",
+        "score": 0.999
+      },
+      {
+        "text": "-1",
+        "score": 0.857
+      },
+      {
+        "text": "3then find the inverse ofA.",
+        "score": 0.93
+      },
+      {
+        "text": "4",
+        "score": 0.993
+      },
+      {
+        "text": "1",
+        "score": 0.959
+      },
+      {
+        "text": "8",
+        "score": 0.722
+      },
+      {
+        "text": "IfU and Wbe two subspaces ofRgenerated by the set ofvectors（l,,,1),（,2,1,2）}and",
+        "score": 0.832
+      },
+      {
+        "text": "(1,2,3,0),（2,2,2,2).Then find(idim(U +W）and (i)dim(UW)",
+        "score": 0.826
+      },
+      {
+        "text": "What isrankof thematrix?Find the rank of the matrix:",
+        "score": 0.913
+      },
+      {
+        "text": "1+3",
+        "score": 0.995
+      },
+      {
+        "text": "2",
+        "score": 0.996
+      },
+      {
+        "text": "-3",
+        "score": 0.843
+      },
+      {
+        "text": "-2",
+        "score": 0.933
+      },
+      {
+        "text": "-3",
+        "score": 0.908
+      },
+      {
+        "text": "3",
+        "score": 0.999
+      },
+      {
+        "text": "-2",
+        "score": 0.939
+      },
+      {
+        "text": "0",
+        "score": 0.91
+      },
+      {
+        "text": "-4",
+        "score": 0.881
+      },
+      {
+        "text": "3",
+        "score": 0.978
+      },
+      {
+        "text": "8",
+        "score": 0.997
+      },
+      {
+        "text": "-7",
+        "score": 0.873
+      },
+      {
+        "text": "-2",
+        "score": 0.92
+      },
+      {
+        "text": "-11",
+        "score": 0.974
+      },
+      {
+        "text": "-910",
+        "score": 0.974
+      },
+      {
+        "text": "-3",
+        "score": 0.896
+      }
+    ],
+    [
+      {
+        "text": "b)",
+        "score": 0.913
+      },
+      {
+        "text": "Defineminors and cofactors.Prove that,",
+        "score": 0.95
+      },
+      {
+        "text": "1+]",
+        "score": 0.536
+      },
+      {
+        "text": "+4",
+        "score": 0.993
+      },
+      {
+        "text": "0",
+        "score": 0.939
+      },
+      {
+        "text": "0",
+        "score": 0.945
+      },
+      {
+        "text": "D",
+        "score": 0.798
+      },
+      {
+        "text": "0",
+        "score": 0.986
+      },
+      {
+        "text": "Prove that,A²-5A+7I=0whereA",
+        "score": 0.92
+      },
+      {
+        "text": "a)",
+        "score": 0.794
+      },
+      {
+        "text": "State andprove theClayey-Hamilton theorem.",
+        "score": 0.956
+      },
+      {
+        "text": "2+4",
+        "score": 0.995
+      },
+      {
+        "text": "What is characteristicmatrix？Find the characteristic roots and associated Eigen vectors of",
+        "score": 0.943
+      },
+      {
+        "text": "thematrix",
+        "score": 0.995
+      },
+      {
+        "text": "2+2",
+        "score": 0.998
+      },
+      {
+        "text": "+4",
+        "score": 0.995
+      },
+      {
+        "text": "1",
+        "score": 0.912
+      },
+      {
+        "text": "0",
+        "score": 0.917
+      },
+      {
+        "text": "-2",
+        "score": 0.89
+      },
+      {
+        "text": "0",
+        "score": 0.898
+      },
+      {
+        "text": "If A andB are orthogonalmatrices each of order n then the matrices AB and BA are also",
+        "score": 0.929
+      },
+      {
+        "text": "orthogonal.",
+        "score": 0.99
+      },
+      {
+        "text": "6.a)",
+        "score": 0.927
+      },
+      {
+        "text": "For which value of will be the vector v= (1,,5） in Ris a linear combination of the",
+        "score": 0.911
+      },
+      {
+        "text": "vectors",
+        "score": 0.983
+      },
+      {
+        "text": "v1=(1,-3,2)andv2=(2,-1,1).",
+        "score": 0.835
+      },
+      {
+        "text": "b)",
+        "score": 0.879
+      },
+      {
+        "text": "Show that thevectors (1,1,-1）,(1,2,3）and（4,5,-3） inR3are linearly independent.",
+        "score": 0.873
+      },
+      {
+        "text": "c)",
+        "score": 0.676
+      },
+      {
+        "text": "Let T:R3→R3 be the linear operator defined by T(x,y,2)=(x +2y,y -z,x+ 2z)",
+        "score": 0.912
+      },
+      {
+        "text": "Find the rank and nullity ofT.",
+        "score": 0.932
+      },
+      {
+        "text": "6",
+        "score": 0.997
+      },
+      {
+        "text": "7.a)",
+        "score": 0.847
+      },
+      {
+        "text": "Let T:R4→R3be the linear transformation defined by",
+        "score": 0.914
+      },
+      {
+        "text": "(-z++x'-zZ=x'2+z+-x)=（1zx）",
+        "score": 0.701
+      },
+      {
+        "text": "Find a basis and the dimension of the (i) Range space of T (Il) Null space of T.",
+        "score": 0.942
+      },
+      {
+        "text": "b)",
+        "score": 0.929
+      },
+      {
+        "text": "Define diagonal matrix.Diagonalize the matrix A =",
+        "score": 0.964
+      },
+      {
+        "text": "matrix such thatP-APis a diagonalmatrixwith the eigenvalues of A down the diagonal.",
+        "score": 0.929
+      }
+    ]
+  ],
+  "math-401-linear-algebra-2023": [
+    [
+      {
+        "text": "University ofDhaka",
+        "score": 0.963
+      },
+      {
+        "text": "AffiliatedEngineeringColleges/Institute",
+        "score": 0.956
+      },
+      {
+        "text": "Departmentof ComputerScienceandEngincering",
+        "score": 0.974
+      },
+      {
+        "text": "2ndYear1SemesterB.Sc.Final Examination,2023",
+        "score": 0.938
+      },
+      {
+        "text": "Course Code:CSE-2103",
+        "score": 0.964
+      },
+      {
+        "text": "CourseNarme:Digital ElectronicsandPulseTechniques",
+        "score": 0.964
+      },
+      {
+        "text": "Time:3Hours",
+        "score": 0.972
+      },
+      {
+        "text": "FullMarks:5x14=70",
+        "score": 0.971
+      },
+      {
+        "text": "Answer any5（Five)setofthefollowingQuestions",
+        "score": 0.942
+      },
+      {
+        "text": "a)Show that Transistor acis as a switch.",
+        "score": 0.935
+      },
+      {
+        "text": "3",
+        "score": 0.99
+      },
+      {
+        "text": "b)DesignNAND,NORgate usingCMOS logic.",
+        "score": 0.927
+      },
+      {
+        "text": "4",
+        "score": 0.995
+      },
+      {
+        "text": "c)DesignatwoinputNORgateusingTTLcircuitandexplainitsoperation.",
+        "score": 0.911
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "d)Define the parameters:iNoiseMargin ii）PropagationDelay ii)Fanin",
+        "score": 0.915
+      },
+      {
+        "text": "3",
+        "score": 0.991
+      },
+      {
+        "text": "2",
+        "score": 0.856
+      },
+      {
+        "text": "a)Describe the orderand drawthe general structureof PLA circuit.",
+        "score": 0.923
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "b)Write the steps for implementing a PLA.",
+        "score": 0.897
+      },
+      {
+        "text": "3",
+        "score": 0.985
+      },
+      {
+        "text": "c)Acombinationallogicisdefinedby thefollowingfunction:",
+        "score": 0.946
+      },
+      {
+        "text": "4",
+        "score": 0.996
+      },
+      {
+        "text": "F1（A,B,C)=∑m(3.5.6.7)",
+        "score": 0.857
+      },
+      {
+        "text": "F2（A.B.C)=∑m(0.2.4.7)",
+        "score": 0.873
+      },
+      {
+        "text": "Design thecircuitwithPLAhaving3inputs4prductterms and2ouputs.",
+        "score": 0.829
+      },
+      {
+        "text": "d)ExplainCMOSacts asinverter.",
+        "score": 0.957
+      },
+      {
+        "text": "a)",
+        "score": 0.837
+      },
+      {
+        "text": "Differentiatebetweenlatchandflip-flop.",
+        "score": 0.967
+      },
+      {
+        "text": "3",
+        "score": 0.995
+      },
+      {
+        "text": "b)What is theproblem associatedwithaSRfip-flop？Howdoestheissuecanberesolved",
+        "score": 0.921
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "by D-flip flop.",
+        "score": 0.93
+      },
+      {
+        "text": "c)What isaclock signal？Mention the difference between theedge triggered clock and",
+        "score": 0.908
+      },
+      {
+        "text": "3",
+        "score": 0.962
+      },
+      {
+        "text": "level triggered clock using a wavefortn.",
+        "score": 0.907
+      },
+      {
+        "text": "d)Explain theroleofpreset andclearinputinaJ-Kflipflop,wherea square waveisused",
+        "score": 0.897
+      },
+      {
+        "text": "4",
+        "score": 0.993
+      },
+      {
+        "text": "as clock and the both inputs of flop-flop are high.",
+        "score": 0.946
+      },
+      {
+        "text": "a)",
+        "score": 0.908
+      },
+      {
+        "text": "Whatis toggle mode in J-Kfip-flop？Mention the different application of the toggle",
+        "score": 0.915
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "mode of J-K flipflop.",
+        "score": 0.91
+      },
+      {
+        "text": "b)Suppose you have afixed frequency generator of 1KHz.You need to use a 100 Hz",
+        "score": 0.905
+      },
+      {
+        "text": "c)what isasynchronous counter?What are the differences between the synchronous and",
+        "score": 0.924
+      },
+      {
+        "text": "3",
+        "score": 0.998
+      },
+      {
+        "text": "asynchronous counter.",
+        "score": 0.967
+      },
+      {
+        "text": "d)DesignaMod10Synchronousbinary counterwithtimingdiagramforonecycle.",
+        "score": 0.979
+      },
+      {
+        "text": "4",
+        "score": 0.994
+      },
+      {
+        "text": "5",
+        "score": 0.916
+      },
+      {
+        "text": "a",
+        "score": 0.923
+      },
+      {
+        "text": "Mention the characteristicsofan operational amplifier.Draw the circuit symbol and",
+        "score": 0.942
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "identifydifferentimportantpoints.",
+        "score": 0.972
+      },
+      {
+        "text": "(q",
+        "score": 0.603
+      },
+      {
+        "text": "3",
+        "score": 0.996
+      },
+      {
+        "text": "Explain the workingprinciple ofan astablemultivibrator using op-amp.Also,illustrate",
+        "score": 0.952
+      },
+      {
+        "text": "7",
+        "score": 0.987
+      },
+      {
+        "text": "theinputandoutputwave shape of thecircuit.",
+        "score": 0.969
+      },
+      {
+        "text": "a)",
+        "score": 0.791
+      },
+      {
+        "text": "Definethefollowingterms:",
+        "score": 0.978
+      },
+      {
+        "text": "4",
+        "score": 0.997
+      },
+      {
+        "text": "i)Resolution(i) Step size(ii)Full-scale output(iv)Full-scale crror.",
+        "score": 0.928
+      },
+      {
+        "text": "b)AI0-bitDAChasastep sizeof0mV.Determine theful-scaleoutput voltage andthe",
+        "score": 0.877
+      },
+      {
+        "text": "2",
+        "score": 0.997
+      },
+      {
+        "text": "percentageresolution.",
+        "score": 0.993
+      },
+      {
+        "text": "Describe thebasic operation of the digital-ranpADC.",
+        "score": 0.942
+      },
+      {
+        "text": "4",
+        "score": 0.996
+      },
+      {
+        "text": "d)Explain thememoryReadandWrite operation.",
+        "score": 0.95
+      },
+      {
+        "text": "7",
+        "score": 0.889
+      },
+      {
+        "text": "a)What ismcant byLED and LCD.",
+        "score": 0.918
+      },
+      {
+        "text": "2",
+        "score": 0.998
+      },
+      {
+        "text": "b)ImplementSampleandHold(S/H)circuit by usingOperationalAmplifier.",
+        "score": 0.955
+      },
+      {
+        "text": "c)Describe binaryweightedresistorDigital toAnalogConvertercircuit.",
+        "score": 0.965
+      },
+      {
+        "text": "4",
+        "score": 0.998
+      },
+      {
+        "text": "d)Find the output ofthefollowing circuitsfor sinusoidalinput.Also explain theoperation",
+        "score": 0.95
+      },
+      {
+        "text": "ofthe circuits.",
+        "score": 0.929
+      },
+      {
+        "text": "WW",
+        "score": 0.505
+      },
+      {
+        "text": "+",
+        "score": 0.663
+      },
+      {
+        "text": "R",
+        "score": 0.989
+      },
+      {
+        "text": "+",
+        "score": 0.63
+      },
+      {
+        "text": "R",
+        "score": 0.971
+      },
+      {
+        "text": "D",
+        "score": 0.882
+      },
+      {
+        "text": "D:",
+        "score": 0.806
+      },
+      {
+        "text": "(i)",
+        "score": 0.686
+      },
+      {
+        "text": "(ii)",
+        "score": 0.926
+      }
+    ]
+  ]
+}
