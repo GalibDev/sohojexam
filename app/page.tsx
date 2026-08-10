@@ -2,6 +2,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { MobileHome } from "./mobile/mobile-home";
 
 const departments = [
   { name: "Computer Science", short: "CSE", icon: "</>", meta: "8 semesters · 2,540 questions", active: true },
@@ -39,7 +40,7 @@ export default function Home() {
   const toggleSaved = (index: number) => setSaved(s => s.includes(index) ? s.filter(i => i !== index) : [...s, index]);
 
   return (
-    <main>
+    <main className="mobile-root"><MobileHome/>
       <header className="topbar">
         <a href="#home" className="brand" aria-label="Sohoj Exam home"><span className="brand-mark">S</span><span>Sohoj<span>Exam</span></span></a>
         <nav className="desktop-nav" aria-label="Main navigation">
