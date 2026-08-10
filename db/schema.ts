@@ -175,3 +175,24 @@ export const moderationActions = sqliteTable("moderation_actions", {
 export const aiJobs = sqliteTable("ai_jobs", {
   id:integer("id").primaryKey({autoIncrement:true}),requestedBy:text("requested_by").notNull().references(()=>users.id),kind:text("kind").notNull(),sourceId:integer("source_id"),status:text("status").notNull().default("queued"),input:text("input").notNull().default("{}"),output:text("output"),error:text("error"),createdAt:text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),updatedAt:text("updated_at").notNull().default(sql`CURRENT_TIMESTAMP`),
 },(t)=>[index("idx_ai_jobs_status").on(t.status,t.createdAt)]);
+
+
+export const ocrDocuments = sqliteTable("ocr_documents", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  ownerId: text("owner_id").notNull().references(() => users.id),
+  fileKey: text("file_key").notNull(),
+  originalName: text("original_name").notNull(),
+  mimeType: text("mime_type").notNull(),
+  fileSize: integer("file_size").notNull(),
+  subject: text("subject").notNull().default(""),
+  year: integer("year"),
+  examType: text("exam_type").notNull().default("Final"),
+  status: text("status", { enum: ["processing", "ready", "failed", "published"] }).notNull().default("processing"),
+  extractedText: text("extracted_text").notNull().default(""),
+  error: text("error"),
+  createdAt: text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+  updatedAt: text("updated_at").notNull().default(sql`CURRENT_TIMESTAMP`),
+}, (t) => [
+  uniqueIndex("idx_ocr_documents_file_key").on(t.fileKey),
+  index("idx_ocr_documents_status_created").on(t.status, t.createdAt),
+]);

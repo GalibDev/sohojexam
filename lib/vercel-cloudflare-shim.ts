@@ -27,6 +27,9 @@ export const env = {
   },
   UPLOADS: {
     get: async (_key: string) => null,
+    delete: async () => {
+      throw new Error("File deletion requires the Cloudflare R2 deployment.");
+    },
     put: async () => {
       throw new Error("File uploads require the Cloudflare R2 deployment.");
     },
