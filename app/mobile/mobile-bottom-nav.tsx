@@ -7,8 +7,8 @@ const items = [
   { label: "Profile", href: "/dashboard", icon: "profile" as const },
 ];
 
-export function MobileBottomNav() {
-  return <nav className="mobile-bottom-nav" aria-label="Mobile navigation">{items.map((item, index) =>
-    <a className={index === 0 ? "active" : ""} href={item.href} key={item.label}><MobileIcon name={item.icon}/><span>{item.label}</span></a>
+export function MobileBottomNav({ active = "Home" }: { active?: string }) {
+  return <nav className="mobile-bottom-nav" aria-label="Mobile navigation">{items.map(item =>
+    <a className={item.label === active ? "active" : ""} href={item.href} key={item.label}><MobileIcon name={item.icon}/><span>{item.label}</span></a>
   )}</nav>;
 }
