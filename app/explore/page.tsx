@@ -11,7 +11,7 @@ const fallbackPapers:Paper[]=staticPapers.map(p=>({id:Number(`${p.year}${subject
 
 export default function Explore(){
  const[c,setC]=useState<Catalog>(fallbackCatalog),[dep,setDep]=useState(1),[sem,setSem]=useState(3),[sub,setSub]=useState(301),[exam,setExam]=useState("Final"),[year,setYear]=useState(2023),[college,setCollege]=useState(0),[papers,setPapers]=useState<Paper[]>(fallbackPapers.filter(x=>x.id===2023301));
- useEffect(()=>{fetch("/api/catalog").then(r=>r.json()).then((data:Catalog)=>{if(data?.subjects?.length){setC(data);const target=data.subjects.find(x=>x.code==="CSE-301")??data.subjects[0];setSub(target.id);setSem(target.semesterId)}}).catch(()=>setC(fallbackCatalog))},[]);
+ useEffect(()=>{fetch("/api/catalog").then(r=>r.json()).then((data:Catalog)=>{if(data?.subjects?.length){setC(data);const requested=new URLSearchParams(location.search).get("subject");const target=data.subjects.find(x=>x.code===requested)??data.subjects.find(x=>x.code==="CSE-301")??data.subjects[0];setSub(target.id);setSem(target.semesterId)}}).catch(()=>setC(fallbackCatalog))},[]);
  const semesters=useMemo(()=>c.semesters.filter(x=>x.departmentId===dep),[c,dep]);
  const subjects=useMemo(()=>c.subjects.filter(x=>x.semesterId===sem),[c,sem]);
  useEffect(()=>{const selectedCode=c.subjects.find(x=>x.id===sub)?.code;const local=exam==="Final"?fallbackPapers.filter(x=>x.id===Number(`${year}${subjectIds[selectedCode??""]}`)):[];const p=new URLSearchParams({subject:String(sub),year:String(year),examType:exam});if(college)p.set("college",String(college));fetch(`/api/papers?${p}`).then(r=>r.json()).then(d=>setPapers(d.papers?.length?d.papers:local)).catch(()=>setPapers(local))},[c,sub,year,exam,college]);

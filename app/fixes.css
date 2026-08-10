@@ -1,1 +1,3 @@
 .department-card.active{cursor:pointer}.department-card.active:focus-visible{outline:3px solid #27d5bd;outline-offset:3px}.dashboard-notice{margin-top:22px;padding:13px 16px;border:1px solid #cfe2f4;border-radius:10px;background:linear-gradient(90deg,#edf5ff,#eefbf7);display:flex;align-items:center;gap:10px}.dashboard-notice b{font-size:9px;color:#1260e8}.dashboard-notice span{font-size:8px;color:#627487}
+
+@media(max-width:780px){button,a,select{touch-action:manipulation}.subject-overview.paper-ready{cursor:pointer;-webkit-tap-highlight-color:transparent}.subject-overview.paper-ready:active{transform:scale(.99)}}
