@@ -3,6 +3,11 @@ import "./globals.css";
 import "./papers.css";
 import "./fixes.css";
 import "./explore-card.css";
+import "./mobile/mobile-base.css";
+import "./mobile/mobile-home.css";
+import "./mobile/mobile-nav.css";
+import "./mobile/mobile-papers.css";
+import "./mobile/mobile-viewer.css";
 
 export const metadata: Metadata = {
   title: "SohojExam — Prepare Smarter, Score Better",
