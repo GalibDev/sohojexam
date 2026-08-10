@@ -1,0 +1,4 @@
+@media(max-width:780px){
+  .own-pdf-viewer{height:100dvh;background:#eef0f4}.own-pdf-viewer>header{height:76px;padding:10px 15px;gap:12px;background:linear-gradient(115deg,#ff7447,#ff5d31)}.own-pdf-viewer>header>a:first-child{font-size:28px}.own-pdf-viewer>header h1{font-size:17px}.own-pdf-viewer>header p{font-size:10px}.viewer-download{width:38px;overflow:hidden;color:transparent!important}.viewer-download:after{content:"D";display:grid;place-items:center;color:#fff;font-size:16px}
+  .own-pdf-viewer>nav{height:58px;padding:8px 13px}.own-pdf-viewer>nav .page-label{font-size:10px}.own-pdf-viewer>nav>button{width:38px;overflow:hidden;color:transparent}.own-pdf-viewer>nav>button:after{content:"FS";color:#59606c;font-size:11px;font-weight:800}.own-pdf-viewer>section{padding:14px 8px 20px}.own-pdf-viewer iframe{width:100%;border-radius:4px;background:#fff;box-shadow:0 8px 30px #1b213127}.own-pdf-viewer>footer{display:none}
+}
