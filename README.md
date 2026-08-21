@@ -14,7 +14,7 @@ SohojExam is a modern, mobile-first previous-question bank and smart exam prepar
 
 ## Tech stack
 
-- Next.js 16...
+- Next.js 16.........
 - React 19
 - TypeScript
 - Tailwind CSS 4
