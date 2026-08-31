@@ -4,7 +4,7 @@ SohojExam is a modern, mobile-first previous-question bank and smart exam prepar
 
 ## Highlights
 
-- Previous-question discovery by department, semester, subject, year, exam type, and college
+- Previous--question discovery by department, semester, subject, year, exam type, and college
 - Repeated-question analysis and importance scoring
 - Subject preparation progress and focused study plans
 - Exam Mode and mock-test experience
