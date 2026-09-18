@@ -2,7 +2,7 @@
 
 SohojExam is a modern, mobile-first previous-question bank and smart exam preparation platform for engineering students in Bangladesh.
 
-## Highlights
+## Highlights..
 
 - Previous--question discovery by department, semester, subject, year, exam type, and college
 - Repeated-question analysis and importance scoring
